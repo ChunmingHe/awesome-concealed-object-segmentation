@@ -25,8 +25,8 @@ Please feel free to send us pull requests or email us(issja_hu@163.com) to add l
   * [Polyp Segmentation(PS)](#4)
   * [Lung Nodule Detection(LND)](#5)
 * [Datasets](#Datasets)
-* [Latest Works Recommended](Latest)
-* [Reference](Reference)
+* [Latest Works Recommended](#Latest)
+* [Reference](#Reference)
 
 ## <span id = "Papers">Papers</span>
 
