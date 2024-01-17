@@ -25,7 +25,7 @@ Please feel free to send us pull requests or email us(issja_hu@163.com) to add l
   * [Polyp Segmentation(PS)](#4)
   * [Lung Nodule Detection(LND)](#5)
 * [Datasets](#Datasets)
-* [Latest Works Recommended](#Latest)
+* [Latest Works Recommended](#Recommended)
 * [Reference](#Reference)
 
 ## <span id = "Papers">Papers</span>
@@ -125,7 +125,7 @@ Please feel free to send us pull requests or email us(issja_hu@163.com) to add l
 |    [ASU-Mayo](https://polyp.grand-challenge.org/AsuMayo/)    |  -   |                -                |    [Webpage](https://polyp.grand-challenge.org/AsuMayo/)     |  PS  | Image |
 |         [PN9](https://jiemei.xyz/publications/SANet)         | 2021 |              TPAMI              | [Paper](https://mftp.mmcheng.net/Papers/21pami-lungNodule.pdf) | LND  | Image |
 
-## <span id = "Latest">Latest Works Recommended</span>
+## <span id = "Recommended">Latest Works Recommended</span>
 
 **Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping**. <br/>
 *Chunming He†, Kai Li†, Yachao Zhang, Guoxia Xu, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li*<br/>
