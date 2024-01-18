@@ -38,7 +38,7 @@ Please feel free to send us pull requests or email us(issja_hu@163.com) to add l
 | :-----: | :--------: | ------------------------------------------------------------ | :---------------: | :----------------------------------------------------------: |
 | 2023/12 | **GenSAM** | **Relax Image-Specific Prompt Requirement in SAM: A Single Generic Prompt for Segmenting Camouflaged Objects**<br/><sup><sub>*Jian Hu, Jiayi Lin, Weitong Cai, Shaogang Gong*</sub></sup> |   AAAI<br/>2024   | [Paper](https://arxiv.org/abs/2311.07374)/[Code](https://github.com/jyLin8100/GenSAM)/[Demo](https://lwpyh.github.io/GenSAM/) |
 | 2023/08 | **FPNet**  | **Frequency Perception Network for Camouflaged Object Detection**<br/><sup><sub>*Runmin Cong, Mengyao Sun, Sanyi Zhang, Xiaofei Zhou, Wei Zhang, Yao Zhao*</sub></sup> | ACM MM<br />2023  | [Paper](https://arxiv.org/abs/2308.08924)/[Code](https://github.com/rmcong/FPNet_ACMMM23) |
-| 2023/05 |     -      | **Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping**<br/><sup><sub>*Chunming He, Kai Li, Yachao Zhang, Guoxia Xu, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li*</sub></sup> | NeurIPS<br />2023 | [Paper](https://arxiv.org/abs/2305.11003)/[Code](https://github.com/ChunmingHe/WS-SAM) |
+| 2023/05 |     **WS-SAM**      | **Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping**<br/><sup><sub>*Chunming He, Kai Li, Yachao Zhang, Guoxia Xu, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li*</sub></sup> | NeurIPS<br />2023 | [Paper](https://arxiv.org/abs/2305.11003)/[Code](https://github.com/ChunmingHe/WS-SAM) |
 
 #### <span id = "1.2">1.2 Video(VCOD)</span>
 
