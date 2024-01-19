@@ -14,31 +14,31 @@ Please feel free to send us pull requests or email us(issja_hu@163.com) to add l
 
 ## Contents
 
-* [Papers](#Papers)
-  * [Camouflaged Object Detection(COD)](#p_COD)
-    * [Normal](#p_Normal)
-    * [Video(VCOD)](#p_Video)
-    * [Reference-Based](#p_Referring)
-    * [Open-Vocabulary](#p_Open-Vocabulary)
-  * [Transparent Object Segmentation(TOS)](#p_TOS)
-  * [Surface Defect Detection(SDD)](#p_SDD)
-  * [Polyp Segmentation(PS)](#p_PS)
-  * [Lung Nodule Detection(LND)](#p_LND)
-* [Datasets](#Datasets)
-  * [COD](#d_COD)
-  * [TOS](#d_TOS)
-  * [SDD](#d_SDD)
-  * [PS](#d_PS)
-  * [LND](#d_LND)
+* [Papers](#papers)
+  * [Camouflaged Object Detection(COD)](#1-camouflaged-object-detectioncod)
+    * [Normal](#11-normal)
+    * [Video(VCOD)](#12-videovcod)
+    * [Reference-Based](#13-reference-based)
+    * [Open-Vocabulary](#14-open-vocabularyovd)
+  * [Transparent Object Segmentation(TOS)](#2-transparent-object-segmentationtos)
+  * [Surface Defect Detection(SDD)](#3-surface-defect-detectionsdd)
+  * [Polyp Segmentation(PS)](#4-polyp-segmentationps)
+  * [Lung Nodule Detection(LND)](#5-lung-nodule-detectionlnd)
+* [Datasets](#datasets)
+  * [COD](#1-camouflaged-object-detectioncod-1)
+  * [TOS](#2-transparent-object-segmentationtos-1)
+  * [SDD](#3-surface-defect-detectionsdd-1)
+  * [PS](#4-polyp-segmentationps-1)
+  * [LND](#5-lung-nodule-detectionlnd-1)
 
-* [Latest Works Recommended](#Recommended)
-* [Reference](#Reference)
+* [Latest Works Recommended](#latest-works-recommended)
+* [Reference](#reference)
 
-## <span id = "Papers">Papers</span>
+## <span id = "papers">Papers</span>
 
-### <span id = "p_COD">1. Camouflaged Object Detection(COD)</span>
+### <span id = "1-camouflaged-object-detectioncod">1. Camouflaged Object Detection(COD)</span>
 
-#### <span id = "p_Normal">1.1 Normal</span>
+#### <span id = "11-normal">1.1 Normal</span>
 
 |  when   |            what             | title                                                        |         pub.          |                             link                             |
 | :-----: | :-------------------------: | ------------------------------------------------------------ | :-------------------: | :----------------------------------------------------------: |
@@ -95,7 +95,7 @@ Please feel free to send us pull requests or email us(issja_hu@163.com) to add l
 | 2018/04 |          **FWFC**           | A Fusion Framework for Camouflaged Moving Foreground Detection in the Wavelet Domain <br><sup><sub>*Shuai Li, Dinei Florencio, Wanqing Li, Yaqin Zhao, Chris Cook*</sub></sup> |     TIP<br />2018     |          [Paper](https://arxiv.org/abs/1804.05984)           |
 | 2016/10 |              -              | <span style="white-space:nowrap;">Partially Camouflaged Object Tracking using Modified Probabilistic Neural Network and Fuzzy Energy based Active Contour&emsp;&emsp;&emsp;</span> <br><sup><sub>*Ajoy Mondal, Susmita Ghosh, Ashish Ghosh*</sub></sup> |    IJCV<br />2016     | [Paper](https://link.springer.com/article/10.1007/s11263-016-0959-5) |
 
-#### <span id = "p_Video">1.2 Video(VCOD)</span>
+#### <span id = "12-videovcod">1.2 Video(VCOD)</span>
 
 |  when   |    what     | title                                                        |       pub.        |                             link                             |
 | :-----: | :---------: | ------------------------------------------------------------ | :---------------: | :----------------------------------------------------------: |
@@ -110,21 +110,21 @@ Please feel free to send us pull requests or email us(issja_hu@163.com) to add l
 | 2018/06 |      -      | The best of both worlds: Combining cnns and geometric constraints for hierarchical motion segmentation <br> <sup><sub>*Pia Bideau, Aruni RoyChowdhury, Rakesh R. Menon,et al.*</sub></sup> |  CVPR<br />2018   | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bideau_The_Best_of_CVPR_2018_paper.pdf)/[Code](https://github.com/pbideau/hierarchical-motion-segmentation) |
 | 2016/09 |      -      | <span style="white-space:nowrap;">It’s Moving! A Probabilistic Model for Causal Motion Segmentation in Moving Camera Videos&emsp;&emsp;&emsp;</span> <br><sup><sub>*Bideau, Pia, and Erik Learned-Miller.*</sub></sup> |  ECCV<br />2016   | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46484-8_26) |
 
-#### <span id = "p_Referring">1.3 Reference-Based</span>
+#### <span id = "13-reference-based">1.3 Reference-Based</span>
 
 |  when   |    what     | title                                                        | pub. |                             link                             |
 | :-----: | :---------: | ------------------------------------------------------------ | :--: | :----------------------------------------------------------: |
 | 2023/11 |  **MLKG**   | Large Model Based Referring Camouflaged Object Detection<br/><sup><sub>*Shupeng Cheng, Ge-Peng Ji, Pengda Qin, Deng-Ping Fan, Bowen Zhou, Peng Xu*</sub></sup> |  -   |          [Paper](https://arxiv.org/abs/2311.17122)           |
 | 2023/06 | **Ref-COD** | Referring Camouflaged Object Detection<br/><sup><sub>*Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng*</sub></sup> |  -   | [Paper](https://arxiv.org/abs/2306.07532)/[Code](https://github.com/zhangxuying1004/RefCOD) |
 
-#### <span id = "p_Open-Vocabulary">1.4 Open-Vocabulary(OVD)</span>
+#### <span id = "14-open-vocabularyovd">1.4 Open-Vocabulary(OVD)</span>
 
 |  when   |     what     | title                                                        |      pub.      |                             link                             |
 | :-----: | :----------: | ------------------------------------------------------------ | :------------: | :----------------------------------------------------------: |
 | 2022/11 |  **VLDet**   | Learning Object-Language Alignments for Open-Vocabulary Object Detection<br /><sup><sub>Chuang Lin, Peize Sun, Yi Jiang, Ping Luo, Lizhen Qu, Gholamreza Haffari, Zehuan Yuan, Jianfei Cai</sub></sup> | ICLR<br />2023 | [Paper](https://arxiv.org/abs/2211.14843)/[Code](https://github.com/clin1223/VLDet) |
 | 2021/11 | **Grad-OVD** | Open Vocabulary Object Detection with Pseudo Bounding-Box Labels<br /><sup><sub>Mingfei Gao, Chen Xing, Juan Carlos Niebles, Junnan Li, ran Xu, Wenhao Liu, Caiming Xiong</sub></sup> | ECCV<br />2022 | [Paer](https://arxiv.org/abs/2111.09452v3)/[Code](https://github.com/salesforce/pb-ovd) |
 
-### <span id = "p_TOS">2. Transparent Object Segmentation(TOS)</span>
+### <span id = "2-transparent-object-segmentationtos">2. Transparent Object Segmentation(TOS)</span>
 
 |  when   |     what      | title                                                        |      pub.       |                             link                             |
 | :-----: | :-----------: | ------------------------------------------------------------ | :-------------: | :----------------------------------------------------------: |
@@ -142,7 +142,7 @@ Please feel free to send us pull requests or email us(issja_hu@163.com) to add l
 | :-----: | :--: | ------------------------------------------------------------ | :----------------------: | :---------------------------------------: |
 | 2019/03 |  -   | Segmentation Based Deep-Learning Approach for Surface DefectDetection (`KolektorSDD dataset`)<br /><sup><sub>Domen Tabernik, Samo Šela, Jure Skvarč, Danijel Skočaj</sub></sup> | J Intell Manuf<br />2019 | [Paper](https://arxiv.org/abs/1903.08536) |
 
-### <span id = "p_PS">4. Polyp Segmentation(PS)</span>
+### <span id = "4-polyp-segmentationps">4. Polyp Segmentation(PS)</span>
 
 |  when   |    what    | title                                                        |        pub.         |                             link                             |
 | :-----: | :--------: | ------------------------------------------------------------ | :-----------------: | :----------------------------------------------------------: |
@@ -150,7 +150,7 @@ Please feel free to send us pull requests or email us(issja_hu@163.com) to add l
 | 2022/08 | **BCNet**  | Boundary Constraint Network With Cross Layer Feature Integration for Polyp Segmentation<br/><sup><sub>*Guanghui Yue, Wanwan Han, Bin Jiang, Tianwei Zhou, Runmin Cong, Tianfu Wang*</sub></sup> | IEEE JHBI<br />2022 | [Paper](https://ieeexplore.ieee.org/document/9772424/authors#authors) |
 | 2022/05 | **TGANet** | TGANet: Text-Guided Attention for Improved Polyp Segmentation<br /><sup><sub>*Nikhil Kumar Tomar, Debesh Jha, Ulas Bagci, Sharib Ali*</sub></sup> |  MICCAI<br />2022   | [Paper](https://arxiv.org/abs/2205.04280)/[Code](https://github.com/nikhilroxtomar/TGANet) |
 
-### <span id = "p_LND">5. Lung Nodule Detection(LND)</span>
+### <span id = "5-lung-nodule-detectionlnd">5. Lung Nodule Detection(LND)</span>
 
 |  when   |    what     | title                                                        |       pub.       |                             link                             |
 | :-----: | :---------: | :----------------------------------------------------------- | :--------------: | :----------------------------------------------------------: |
@@ -159,7 +159,7 @@ Please feel free to send us pull requests or email us(issja_hu@163.com) to add l
 
 ## <span id = "Datasets">Datasets</span>
 
-### <span id = "d_COD">1. Camouflaged Object Detection(COD)</span>
+### <span id = "1-camouflaged-object-detectioncod-1">1. Camouflaged Object Detection(COD)</span>
 
 |                             Name                             | Year | Pub. |                            Links                             | level |
 | :----------------------------------------------------------: | :--: | :--: | :----------------------------------------------------------: | :---: |
@@ -173,7 +173,7 @@ Please feel free to send us pull requests or email us(issja_hu@163.com) to add l
 |     [MoCA](https://www.robots.ox.ac.uk/~vgg/data/MoCA/)      | 2020 | ACCV | [Paper](https://openaccess.thecvf.com/content/ACCV2020/html/Lamdouar_Betrayed_by_Motion_Camouflaged_Object_Discovery_via_Motion_Segmentation_ACCV_2020_Paper.html) | Video |
 | [Camouflaged Animal](http://vis-www.cs.umass.edu/motionSegmentation/) | 2016 | ECCV | [Paper](http://vis-www.cs.umass.edu/motionSegmentation/ECCV16Paper/1698.pdf) | Video |
 
-### <span id = "d_TOS">2. Transparent Object Segmentation(TOS)</span>
+### <span id = "2-transparent-object-segmentationtos-1">2. Transparent Object Segmentation(TOS)</span>
 
 |                             Name                             | Year | Pub.  |                            Links                             | level |
 | :----------------------------------------------------------: | :--: | :---: | :----------------------------------------------------------: | :---: |
@@ -184,14 +184,14 @@ Please feel free to send us pull requests or email us(issja_hu@163.com) to add l
 |       [TOM-Net](https://guanyingc.github.io/TOM-Net/)        | 2018 | CVPR  | [Paper](https://guanyingc.github.io/TOM-Net/files/tom-net_cvpr18.pdf) | Image |
 |                           TransCut                           | 2015 | ICCV  |          [Paper](https://arxiv.org/abs/1511.06853)           | Image |
 
-### <span id = "d_SDD">3. Surface Defect Detection(SDD)</span>
+### <span id = "3-surface-defect-detectionsdd-1">3. Surface Defect Detection(SDD)</span>
 
 |                            Name                            | Year | Pub. |                         Links                          | level |
 | :--------------------------------------------------------: | :--: | :--: | :----------------------------------------------------: | :---: |
 | [KolektorSDD](https://www.vicos.si/resources/kolektorsdd/) | 2019 | CVPR |       [Paper](https://arxiv.org/abs/1903.08536)        | Image |
 |    [DAGM](https://hci.iwr.uni-heidelberg.de/node/3616)     |  -   |  -   | [Webpage](https://hci.iwr.uni-heidelberg.de/node/3616) | Image |
 
-### <span id = "d_PS">4. Polyp Segmentation(PS)</span>
+### <span id = "4-polyp-segmentationps-1">4. Polyp Segmentation(PS)</span>
 
 |                             Name                             | Year |              Pub.               |                            Links                             | level |
 | :----------------------------------------------------------: | :--: | :-----------------------------: | :----------------------------------------------------------: | :---: |
@@ -203,18 +203,18 @@ Please feel free to send us pull requests or email us(issja_hu@163.com) to add l
 |                             ETIS                             | 2013 | Int J Comput Assist Radiol Surg |      [Paper](https://pubmed.ncbi.nlm.nih.gov/24037504/)      | Image |
 |    [ASU-Mayo](https://polyp.grand-challenge.org/AsuMayo/)    |  -   |                -                |    [Webpage](https://polyp.grand-challenge.org/AsuMayo/)     | Image |
 
-### <span id = "d_LND">5. Lung Nodule Detection(LND)</span>
+### <span id = "5-lung-nodule-detectionlnd-1">5. Lung Nodule Detection(LND)</span>
 
 |                     Name                     | Year | Pub.  |                            Links                             | level |
 | :------------------------------------------: | :--: | :---: | :----------------------------------------------------------: | :---: |
 | [PN9](https://jiemei.xyz/publications/SANet) | 2021 | TPAMI | [Paper](https://mftp.mmcheng.net/Papers/21pami-lungNodule.pdf) | Image |
 
-## <span id = "Recommended">Latest Works Recommended</span>
+## <span id = "latest-works-recommended">Latest Works Recommended</span>
 
 **Strategic Preys Make Acute Predators: Enhancing Camouflaged Object Detectors by Generating Camouflaged Objects**<br/>Chunming He, Kai Li*, Yachao Zhang, Yulun Zhang, Zhenhua Guo, Xiu Li*, Martin Danelljan, Fisher Yu<br/>
 ICLR 2024. [Paper](https://arxiv.org/pdf/2308.03166.pdf)/[Code](https://github.com/ChunmingHe/Camouflageator)
 
-## <span id = "Reference">Reference</span>
+## <span id = "reference">Reference</span>
 
 [SINet-V2/AWESOME_COD_LIST.md](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md)
 
