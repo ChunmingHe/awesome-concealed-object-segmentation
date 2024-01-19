@@ -4,7 +4,7 @@ A curated list of awesome **Concealed Object Segmentation** (COS) works.
 
 We will keep updating it.
 
-**Last updated at 2024/01/16.**
+**Last updated at 2024/01/19.**
 
 ---
 
