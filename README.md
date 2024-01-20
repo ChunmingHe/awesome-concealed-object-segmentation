@@ -35,7 +35,7 @@
 
 #### <span id = "11-normal">1.1 Normal</span>
 
-|  when   |            what             | title                                                        |         pub.          |                             link                             |
+|  Release   |            Method             | Title                                                        |         Pub.          |                             Link                             |
 | :-----: | :-------------------------: | ------------------------------------------------------------ | :-------------------: | :----------------------------------------------------------: |
 | 2023/08 |          **PENet**          | Locate, Refine and Restore: A Progressive Enhancement Network for Camouflaged Object Detection<br/><sup><sub>*Xiaofei Li; Jiaxin Yang; Shuohao Li; Jun Lei; Jun Zhang; Dong Chen*</sub></sup> |    IJCAI<br />2023    |   [Paper](https://www.ijcai.org/proceedings/2023/0124.pdf)   |
 | 2023/08 | **Camouflageator and ICEG** | Strategic Preys Make Acute Predators: Enhancing Camouflaged Object Detectors by Generating Camouflaged Objects<br/><sup><sub>*Chunming He, Kai Li, Yachao Zhang, Yulun Zhang, Zhenhua Guo, Xiu Li, Martin Danelljan, Fisher Yu*</sub></sup> |    ICLR<br />2024     | [Paper](https://arxiv.org/abs/2308.03166)/[Code](https://github.com/ChunmingHe/Camouflageator) |
@@ -92,7 +92,7 @@
 
 #### <span id = "12-videovcod">1.2 Video(VCOD)</span>
 
-|  when   |    what     | title                                                        |       pub.        |                             link                             |
+|  Release   |    Method     | Title                                                        |       Pub.        |                             Link                             |
 | :-----: | :---------: | ------------------------------------------------------------ | :---------------: | :----------------------------------------------------------: |
 | 2022/08 |      -      | EM-driven unsupervised learning for efficient motion segmentation <br> <sup><sub>*Etienne Meunier, Ana¨ıs Badoual, and Patrick Bouthemy.*</sub></sup> |  TPAMI<br />2022  | [Paper](https://ieeexplore.ieee.org/document/9855882)/[Code](https://github.com/Etienne-Meunier-Inria/EM-Flow-Segmentation) |
 | 2022/06 | **SLT-Net** | **Implicit Motion Handling for Video Camouflaged Object Detection** (`MoCA-Mask dataset`) <br> <sup><sub>*Xuelian Cheng, Huan Xiong, Deng-Ping Fan, et al.*</sub></sup> |  CVPR<br />2022   | [Paper](https://dengpingfan.github.io/papers/[2022][CVPR]VCOD_MoCA-Mask.pdf)/[Code](https://github.com/XuelianCheng/SLT-Net) |
@@ -107,21 +107,21 @@
 
 #### <span id = "13-reference-based">1.3 Reference-Based</span>
 
-|  when   |    what     | title                                                        | pub. |                             link                             |
+|  Release   |    Method     | Title                                                        | Pub. |                             Link                             |
 | :-----: | :---------: | ------------------------------------------------------------ | :--: | :----------------------------------------------------------: |
 | 2023/11 |  **MLKG**   | Large Model Based Referring Camouflaged Object Detection<br/><sup><sub>*Shupeng Cheng, Ge-Peng Ji, Pengda Qin, Deng-Ping Fan, Bowen Zhou, Peng Xu*</sub></sup> |  -   |          [Paper](https://arxiv.org/abs/2311.17122)           |
 | 2023/06 | **Ref-COD** | Referring Camouflaged Object Detection<br/><sup><sub>*Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng*</sub></sup> |  -   | [Paper](https://arxiv.org/abs/2306.07532)/[Code](https://github.com/zhangxuying1004/RefCOD) |
 
 #### <span id = "14-open-vocabularyovd">1.4 Open-Vocabulary(OVD)</span>
 
-|  when   |     what     | title                                                        |      pub.      |                             link                             |
+|  Release   |     Method     | Title                                                        |      Pub.      |                             Link                             |
 | :-----: | :----------: | ------------------------------------------------------------ | :------------: | :----------------------------------------------------------: |
 | 2022/11 |  **VLDet**   | Learning Object-Language Alignments for Open-Vocabulary Object Detection<br /><sup><sub>Chuang Lin, Peize Sun, Yi Jiang, Ping Luo, Lizhen Qu, Gholamreza Haffari, Zehuan Yuan, Jianfei Cai</sub></sup> | ICLR<br />2023 | [Paper](https://arxiv.org/abs/2211.14843)/[Code](https://github.com/clin1223/VLDet) |
 | 2021/11 | **Grad-OVD** | Open Vocabulary Object Detection with Pseudo Bounding-Box Labels<br /><sup><sub>Mingfei Gao, Chen Xing, Juan Carlos Niebles, Junnan Li, ran Xu, Wenhao Liu, Caiming Xiong</sub></sup> | ECCV<br />2022 | [Paer](https://arxiv.org/abs/2111.09452v3)/[Code](https://github.com/salesforce/pb-ovd) |
 
 ### <span id = "2-transparent-object-segmentationtos">2. Transparent Object Segmentation(TOS)</span>
 
-|  when   |     what      | title                                                        |      pub.       |                             link                             |
+|  Release   |     Method      | Title                                                        |      Pub.       |                             Link                             |
 | :-----: | :-----------: | ------------------------------------------------------------ | :-------------: | :----------------------------------------------------------: |
 | 2022/04 |       -       | Glass Segmentation with RGB-Thermal Image Pairs<br /><sup><sub>Dong Huo, Jian Wang, Yiming Qian, Yee-Hong Yang</sub></sup> |  TIP<br />2023  | [Paper](https://arxiv.org/abs/2204.05453)/[Code](https://github.com/Dong-Huo/RGB-T-Glass-Segmentation) |
 | 2022/03 | **ClearPose** | ClearPose: Large-scale Transparent Object Dataset and Benchmark(`ClearPose dataset`)<br /><sup><sub>Xiaotong Chen, Huijie Zhang, Zeren Yu, Anthony Opipari, Odest Chadwicke Jenkins</sub></sup> | ECCV <br />2022 | [Paper](https://arxiv.org/abs/2203.03890)/[Code](https://github.com/opipari/ClearPose) |
@@ -133,13 +133,13 @@
 
 ### <span id = "p_SDD">3. Surface Defect Detection(SDD)</span>
 
-|  when   | what | title                                                        |           pub.           |                   link                    |
+|  Release   | Method | Title                                                        |           Pub.           |                   Link                    |
 | :-----: | :--: | ------------------------------------------------------------ | :----------------------: | :---------------------------------------: |
 | 2019/03 |  -   | Segmentation Based Deep-Learning Approach for Surface DefectDetection (`KolektorSDD dataset`)<br /><sup><sub>Domen Tabernik, Samo Šela, Jure Skvarč, Danijel Skočaj</sub></sup> | J Intell Manuf<br />2019 | [Paper](https://arxiv.org/abs/1903.08536) |
 
 ### <span id = "4-polyp-segmentationps">4. Polyp Segmentation(PS)</span>
 
-|  when   |    what    | title                                                        |        pub.         |                             link                             |
+|  Release   |    Method    | Title                                                        |        Pub.         |                             Link                             |
 | :-----: | :--------: | ------------------------------------------------------------ | :-----------------: | :----------------------------------------------------------: |
 | 2022/09 | **LDNet**  | Lesion-aware Dynamic Kernel for Polyp Segmentation<br /><sup><sub>Ruifei Zhang, Peiwen Lai, Xiang Wan, De-Jun Fan, Feng Gao, Xiao-Jian Wu & Guanbin Li</sub></sup> |  MICCAI<br />2022   | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_10)/[Code](https://github.com/ReaFly/LDNet) |
 | 2022/08 | **BCNet**  | Boundary Constraint Network With Cross Layer Feature Integration for Polyp Segmentation<br/><sup><sub>*Guanghui Yue, Wanwan Han, Bin Jiang, Tianwei Zhou, Runmin Cong, Tianfu Wang*</sub></sup> | IEEE JHBI<br />2022 | [Paper](https://ieeexplore.ieee.org/document/9772424/authors#authors) |
@@ -147,7 +147,7 @@
 
 ### <span id = "5-lung-nodule-detectionlnd">5. Lung Nodule Detection(LND)</span>
 
-|  when   |    what     | title                                                        |       pub.       |                             link                             |
+|  Release   |    Method     | Title                                                        |       Pub.       |                             Link                             |
 | :-----: | :---------: | :----------------------------------------------------------- | :--------------: | :----------------------------------------------------------: |
 | 2022/08 | **LSSANet** | LSSANet: A Long Short Slice-Aware Network for Pulmonary Nodule Detection<br /><sup><sub>*Rui Xu, Yong Luo, Bo Du, Kaiming Kuang, Jiancheng Yang*</sub></sup> | MICCAI<br />2022 | [Paper](https://arxiv.org/abs/2208.02122)/[Code](https://github.com/Ruixxxx/LSSANet) |
 | 2021/03 |  **SANet**  | SANet: A Slice-Aware Network for Pulmonary Nodule Detection(`PN9 dataset`)<br /><sup><sub>Domen Tabernik, Samo Šela, Jure Skvarč, Danijel Skočaj</sub></sup> | TPAMI<br />2021  | [Paper](https://mftp.mmcheng.net/Papers/21pami-lungNodule.pdf)/[Code](https://github.com/mj129/SANet) |
