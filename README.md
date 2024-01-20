@@ -246,7 +246,7 @@
 ## <span id = "latest-works-recommended">Latest Works Recommended</span>
 
 **Strategic Preys Make Acute Predators: Enhancing Camouflaged Object Detectors by Generating Camouflaged Objects**<br/>Chunming He, Kai Li*, Yachao Zhang, Yulun Zhang, Zhenhua Guo, Xiu Li*, Martin Danelljan, Fisher Yu<br/>
-ICLR 2024. [[Paper](https://arxiv.org/pdf/2308.03166.pdf)] [[Code](https://github.com/ChunmingHe/Camouflageator)]
+ICLR 2024. [[Paper](https://arxiv.org/pdf/2308.03166.pdf)] [[Code](https://github.com/ChunmingHe/Camouflageator)]<br/>
 Aug. 2023
 
 ## <span id = "related-surveys-recommended">Related Surveys Recommended</span>
