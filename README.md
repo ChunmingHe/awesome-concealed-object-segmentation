@@ -27,6 +27,7 @@
   * [LND](#5-lung-nodule-detectionlnd-1)
 
 * [Latest Works Recommended](#latest-works-recommended)
+* [Related Surveys Recommended](#related-surveys-recommended)
 * [Reference](#reference)
 
 ## <span id = "papers">Papers</span>
@@ -248,7 +249,7 @@
 ICLR 2024. [[Paper](https://arxiv.org/pdf/2308.03166.pdf)] [[Code](https://github.com/ChunmingHe/Camouflageator)]
 Aug. 2023
 
-## Related Surveys Recommended
+## <span id = "related-surveys-recommended">Related Surveys Recommended</span>
 
 **Advances in deep concealed scene understanding**<br/>VI 2023. [[Paper](https://link.springer.com/10.1007/s44267-023-00019-6)] [[Code](https://github.com/DengPingFan/CSU)]<br/>Aug. 2023
 
