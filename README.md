@@ -1,7 +1,6 @@
 # <p align=center>Awesome Concealed Object Segmentation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ChunmingHe/awesome-concealed-object-segmentation) </p>
 
 
-
 <p align=center>🔥A curated list of awesome <b>Concealed Object Segmentation(COS)</b> works.🔥</p>
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
