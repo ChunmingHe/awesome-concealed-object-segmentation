@@ -9,6 +9,7 @@
 
 ## Contents
 
+* [Latest Works Recommended](#latest-works-recommended)
 * [Papers](#papers)
   * [Camouflaged Object Detection(COD)](#1-camouflaged-object-detectioncod)
     * [Normal](#11-normal)
@@ -25,10 +26,14 @@
   * [SDD](#3-surface-defect-detectionsdd-1)
   * [PS](#4-polyp-segmentationps-1)
   * [LND](#5-lung-nodule-detectionlnd-1)
-
-* [Latest Works Recommended](#latest-works-recommended)
 * [Related Surveys Recommended](#related-surveys-recommended)
 * [Reference](#reference)
+
+## <span id = "latest-works-recommended">Latest Works Recommended</span>
+
+**Strategic Preys Make Acute Predators: Enhancing Camouflaged Object Detectors by Generating Camouflaged Objects**<br/>Chunming He, Kai Li*, Yachao Zhang, Yulun Zhang, Zhenhua Guo, Xiu Li*, Martin Danelljan, Fisher Yu<br/>
+ICLR 2024. [[Paper](https://arxiv.org/pdf/2308.03166.pdf)] [[Code](https://github.com/ChunmingHe/Camouflageator)]<br/>
+Aug. 2023
 
 ## <span id = "papers">Papers</span>
 
@@ -242,12 +247,6 @@
 |                     Name                     | Year | Pub.  |                            Links                             | level |
 | :------------------------------------------: | :--: | :---: | :----------------------------------------------------------: | :---: |
 | [PN9](https://jiemei.xyz/publications/SANet) | 2021 | TPAMI | [Paper](https://mftp.mmcheng.net/Papers/21pami-lungNodule.pdf) | Image |
-
-## <span id = "latest-works-recommended">Latest Works Recommended</span>
-
-**Strategic Preys Make Acute Predators: Enhancing Camouflaged Object Detectors by Generating Camouflaged Objects**<br/>Chunming He, Kai Li*, Yachao Zhang, Yulun Zhang, Zhenhua Guo, Xiu Li*, Martin Danelljan, Fisher Yu<br/>
-ICLR 2024. [[Paper](https://arxiv.org/pdf/2308.03166.pdf)] [[Code](https://github.com/ChunmingHe/Camouflageator)]<br/>
-Aug. 2023
 
 ## <span id = "related-surveys-recommended">Related Surveys Recommended</span>
 
