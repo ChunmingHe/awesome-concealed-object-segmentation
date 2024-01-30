@@ -5,7 +5,7 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2024/01/29 ]</b></p>
+<p align=center><b>[ Last updated at 2024/01/30 ]</b></p>
 
 ## Contents
 
@@ -122,7 +122,7 @@ Aug. 2023
 | 2021/05 |              -              | CamouFinder: Finding Camouflaged Instances in Images <br><sup><sub>*Trung-Nghia Le, Vuong Nguyen, Cong Le, et al.*</sub></sup> |    AAAI<br />2021     | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/18015)/[Video](https://www.youtube.com/watch?v=RI4nt5MDmwE&ab_channel=TrungNgh%C4%A9aL%C3%AA) |
 | 2021/04 | **iGAN** | Transformer transforms salient object detection and camouflaged object detection <br> <sup><sub>*Yuxin Mao, Jing Zhang, Yuchao Dai, et al.*</sub></sup> | arXiv | [Paper](https://arxiv.org/abs/2104.10127)/[Code](https://github.com/fupiao1998/TrasformerSOD) |
 | 2021/03 |         **D2C-Net**         | D2C-Net: A Dual-branch, Dual-guidance and Cross-refine Network for Camouflaged Object Detection <br><sup><sub>*Kang Wang, Hongbo Bi, Yi Zhang, Cong Zhang, Ziqi Liu, Shuang Zheng*</sub></sup> |     TIE<br />2021     | [Paper](https://ieeexplore.ieee.org/document/9430677)/[Code](https://github.com/MS-KangWang/COD-D2Net) |
-| 2021/02 |          **SINet**          | Concealed Object Detection (`COD10K dataset`)                       <br><sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Ming-Ming Cheng, Ling Shao*</sub></sup> |    TPAMI<br />2022    | [Paper](https://arxiv.org/abs/2102.10274)/[Code](https://github.com/GewelsJI/SINet-V2) |
+| 2021/02 |          **SINet-V2**          | Concealed Object Detection (`COD10K dataset`)                       <br><sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Ming-Ming Cheng, Ling Shao*</sub></sup> |    TPAMI<br />2022    | [Paper](https://arxiv.org/abs/2102.10274)/[Code](https://github.com/GewelsJI/SINet-V2) |
 | 2021/02 |          **TANet**          | Deep Texture-Aware Features for Camouflaged Object Detection <br><sup><sub>*Jingjing Ren, Xiaowei Hu, Lei Zhu, Xuemiao Xu, et al.*</sub></sup> |    TCSVT<br />2021    |          [Paper](https://arxiv.org/abs/2102.02996)           |
 | 2021/01 |         **BASNet**          | Boundary-Aware Segmentation Network for Mobile and Web Applications <br> <sup><sub>*Xuebin Qin, Deng-Ping Fan, Chenyang Huang, et al.*</sub></sup> |         arXiv         | [Paper](https://arxiv.org/abs/2101.04704)/[Code](https://github.com/xuebinqin/BASNet) |
 | 2021/01 |        **MCIF-Net**         | Accurate Camouflaged Object Detection via Mixture Convolution and Interactive Fusion <br> <sup><sub>*Bo Dong, Mingchen Zhuge, Yongxiong Wang, Hongbo Bi, Geng Chen*</sub></sup> |    arXiv    |          [Paper](https://arxiv.org/abs/2101.05687)           |
@@ -225,10 +225,16 @@ Aug. 2023
 
 ### <span id = "3-surface-defect-detectionsdd-1">3. Surface Defect Detection(SDD)</span>
 
-|                            Name                            | Year | Pub. |                         Links                          | level |
-| :--------------------------------------------------------: | :--: | :--: | :----------------------------------------------------: | :---: |
-| [KolektorSDD](https://www.vicos.si/resources/kolektorsdd/) | 2019 | CVPR |       [Paper](https://arxiv.org/abs/1903.08536)        | Image |
-|    [DAGM](https://hci.iwr.uni-heidelberg.de/node/3616)     |  -   |  -   | [Webpage](https://hci.iwr.uni-heidelberg.de/node/3616) | Image |
+|                             Name                             | Year | Pub. |                            Links                             | level |
+| :----------------------------------------------------------: | :--: | :--: | :----------------------------------------------------------: | :---: |
+|  [MVTecAD](https://www.mvtec.com/company/research/datasets)  | 2021 | IJCV | [Paper](https://link.springer.com/article/10.1007/s11263-020-01400-4) | Image |
+| [NEU](http://faculty.neu.edu.cn/songkechen/zh_CN/zdylm/263270/list/index.htm) <br />(spot defect) | 2021 | TIM  |    [Paper](https://ieeexplore.ieee.org/document/9440451)     | Image |
+| [MagneticTile defect](https://github.com/abin24/Magnetic-tile-defect-datasets.) | 2020 |  VC  |    [Paper](https://ieeexplore.ieee.org/document/8560423)     | Image |
+|  [KolektorSDD](https://www.vicos.si/resources/kolektorsdd/)  | 2019 | CVPR |          [Paper](https://arxiv.org/abs/1903.08536)           | Image |
+| [NEU](http://faculty.neu.edu.cn/songkechen/zh_CN/zdylm/263270/list/index.htm) <br />(steel pit defect) | 2019 | TIM  |    [Paper](https://ieeexplore.ieee.org/document/8709818)     | Image |
+| [CrackForest](https://github.com/cuilimeng/CrackForest-dataset) | 2016 | TITS |    [Paper](https://ieeexplore.ieee.org/document/7471507)     | Image |
+| [NEU](http://faculty.neu.edu.cn/songkechen/zh_CN/zdylm/263270/list/index.htm)<br /> (oil pollution defect) | 2014 | ISIJ | [Paper](https://www.jstage.jst.go.jp/article/isijinternational/54/11/54_2598/_article) | Image |
+|     [DAGM](https://hci.iwr.uni-heidelberg.de/node/3616)      |  -   |  -   |    [Webpage](https://hci.iwr.uni-heidelberg.de/node/3616)    | Image |
 
 ### <span id = "4-polyp-segmentationps-1">4. Polyp Segmentation(PS)</span>
 
