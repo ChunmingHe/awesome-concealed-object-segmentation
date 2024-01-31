@@ -5,7 +5,7 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2024/01/30 ]</b></p>
+<p align=center><b>[ Last updated at 2024/01/31 ]</b></p>
 
 ## Contents
 
@@ -202,7 +202,9 @@ Aug. 2023
 
 |                             Name                             | Year | Pub. |                            Links                             | level |
 | :----------------------------------------------------------: | :--: | :--: | :----------------------------------------------------------: | :---: |
+| [S-COD](https://drive.google.com/file/d/1u7PRtZDu2vXCRe0o2SplVYa7ESoZQFR-/view?usp=sharing) | 2023 | AAAI |          [Paper](https://arxiv.org/abs/2207.14083)           | Image |
 | [NC4K](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment) | 2021 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2021/Papers/Lv_Simultaneously_Localize_Segment_and_Rank_the_Camouflaged_Objects_CVPR_2021_Paper.pdf) | Image |
+| [CAM-LDR](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment?tab=readme-ov-file) | 2021 | CVPR |                          [Paper]()                           | Image |
 | [CAMO++](https://sites.google.com/view/ltnghia/research/camo_plus_plus?authuser=0) | 2021 | TIP  |          [Paper](https://arxiv.org/abs/2103.17123)           | Image |
 |            [COD10K](http://dpfan.net/camouflage/)            | 2020 | CVPR | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/Papers/Fan_Camouflaged_Object_Detection_CVPR_2020_Paper.pdf) | Image |
 | [CAMO](https://sites.google.com/view/ltnghia/research/camo)  | 2019 | CVIU | [Paper](http://www.dgcv.nii.ac.jp/Publications/Papers/2019/cviu2019.pdf) | Image |
@@ -210,7 +212,7 @@ Aug. 2023
 | [CHAMELEON](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | 2017 |  -   | [Webpage](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | Image |
 | [MoCA-Mask](https://xueliancheng.github.io/SLT-Net-project/) | 2022 | CVPR |          [Paper](https://arxiv.org/abs/2203.07363)           | Video |
 |     [MoCA](https://www.robots.ox.ac.uk/~vgg/data/MoCA/)      | 2020 | ACCV | [Paper](https://openaccess.thecvf.com/content/ACCV2020/html/Lamdouar_Betrayed_by_Motion_Camouflaged_Object_Discovery_via_Motion_Segmentation_ACCV_2020_Paper.html) | Video |
-| [Camouflaged Animal](http://vis-www.cs.umass.edu/motionSegmentation/) | 2016 | ECCV | [Paper](http://vis-www.cs.umass.edu/motionSegmentation/ECCV16Paper/1698.pdf) | Video |
+|    [CAD](http://vis-www.cs.umass.edu/motionSegmentation/)    | 2016 | ECCV | [Paper](http://vis-www.cs.umass.edu/motionSegmentation/ECCV16Paper/1698.pdf) | Video |
 
 ### <span id = "2-transparent-object-segmentationtos-1">2. Transparent Object Segmentation(TOS)</span>
 
