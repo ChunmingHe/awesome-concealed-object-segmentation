@@ -14,7 +14,7 @@
   * [Camouflaged Object Detection(COD)](#1-camouflaged-object-detectioncod)
     * [Normal](#11-normal)
     * [Video(VCOD)](#12-videovcod)
-    * [Reference-Based](#13-reference-based)
+    * [Reference-Based(RefCOD)](#13-reference-based)
     * [Open-Vocabulary(OVCOD)](#14-open-vocabularyovd)
   * [Transparent Object Segmentation(TOS)](#2-transparent-object-segmentationtos)
   * [Surface Defect Detection(SDD)](#3-surface-defect-detectionsdd)
@@ -180,12 +180,12 @@ Aug. 2023
 | 2018/06 |      -      | The best of both worlds: Combining cnns and geometric constraints for hierarchical motion segmentation <br> <sup><sub>*Pia Bideau, Aruni RoyChowdhury, Rakesh R. Menon,et al.*</sub></sup> |  CVPR<br />2018   | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bideau_The_Best_of_CVPR_2018_paper.pdf)/[Code](https://github.com/pbideau/hierarchical-motion-segmentation) |
 | 2016/09 |      -      | <span style="white-space:nowrap;">It’s Moving! A Probabilistic Model for Causal Motion Segmentation in Moving Camera Videos&emsp;&emsp;&emsp;</span> <br><sup><sub>*Bideau, Pia, and Erik Learned-Miller.*</sub></sup> |  ECCV<br />2016   | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46484-8_26) |
 
-#### <span id = "13-reference-based">1.3 Reference-Based</span>
+#### <span id = "13-reference-based">1.3 Reference-Based</span>(RefCOD)
 
 |  Release   |    Method     | Title                                                        | Pub. |                             Links                             |
 | :-----: | :---------: | ------------------------------------------------------------ | :--: | :----------------------------------------------------------: |
 | 2023/11 |  **MLKG**   | Large Model Based Referring Camouflaged Object Detection<br/><sup><sub>*Shupeng Cheng, Ge-Peng Ji, Pengda Qin, Deng-Ping Fan, Bowen Zhou, Peng Xu*</sub></sup> | arXiv<br />2023 |          [Paper](https://arxiv.org/abs/2311.17122)           |
-| 2023/06 | **Ref-COD** | Referring Camouflaged Object Detection<br/><sup><sub>*Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng*</sub></sup> | arXiv<br />2023 | [Paper](https://arxiv.org/abs/2306.07532)/[Code](https://github.com/zhangxuying1004/RefCOD) |
+| 2023/06 | **Ref-COD** | Referring Camouflaged Object Detection ( `R2C7K dataset`)<br/><sup><sub>*Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng*</sub></sup> | arXiv<br />2023 | [Paper](https://arxiv.org/abs/2306.07532)/[Code](https://github.com/zhangxuying1004/RefCOD) |
 
 #### <span id = "14-open-vocabularyovd">1.4 Open-Vocabulary(OVCOD)</span>
 
@@ -297,6 +297,7 @@ Aug. 2023
 
 |                             Name                             | Year | Pub.  |                            Links                             | level |
 | :----------------------------------------------------------: | :--: | :---: | :----------------------------------------------------------: | :---: |
+| [R2C7K](https://pan.baidu.com/share/init?surl=LHdqpD3w24fcLb_dbR6DyA) | 2023 | arXiv |          [Paper](https://arxiv.org/abs/2306.07532)           | Image |
 |                            OVCamo                            | 2023 | arXiv |          [Paper](https://arxiv.org/abs/2311.11241)           | Image |
 | [S-COD](https://drive.google.com/file/d/1u7PRtZDu2vXCRe0o2SplVYa7ESoZQFR-/view?usp=sharing) | 2023 | AAAI  |          [Paper](https://arxiv.org/abs/2207.14083)           | Image |
 | [NC4K](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment) | 2021 | CVPR  | [Paper](https://openaccess.thecvf.com/content/CVPR2021/Papers/Lv_Simultaneously_Localize_Segment_and_Rank_the_Camouflaged_Objects_CVPR_2021_Paper.pdf) | Image |
