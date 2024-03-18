@@ -5,7 +5,7 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2024/03/17 ]</b></p>
+<p align=center><b>[ Last updated at 2024/03/18 ]</b></p>
 
 ## Contents
 
@@ -173,8 +173,6 @@ Aug. 2023
 |  2020   |          **SINet**          | Camouflaged Object Detection `COD10K dataset`<br><sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Guolei Sun, Ming-Ming Cheng, Jianbing Shen, Ling Shao*</sub></sup> |    CVPR<br />2020     | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.pdf)/[Code](https://github.com/DengPingFan/SINet) |
 |  2019   |          **ANet**           | Anabranch network for camouflaged object segmentation `CAMO dataset` <br><sup><sub>*Trung-Nghia Le, Tam V. Nguyen, Zhongliang Nie, Minh-Triet Tran, Akihiro Sugimoto*</sub></sup> |    CVIU<br />2019     | [Paper](https://arxiv.org/abs/2105.09451)/[Code](https://sites.google.com/view/ltnghia/research/camo)/[Project](https://sites.google.com/view/ltnghia/research/camo) |
 | 2018/04 |              **CPDDNet**              | Detection of People With Camouflage Pattern Via Dense Deconvolution Network `CPD1K dataset` <br><sup><sub>*Yunfei Zheng, Xiongwei Zhang, Feng Wang, Tieyong Cao, Meng Sun, Xiaobing Wang*</sub></sup> |     SPL<br />2019     |    [Paper](https://ieeexplore.ieee.org/document/8336933)/[Code](https://github.com/xfflyer/Camouflaged-people-detection)    |
-| 2018/04 |          **FWFC**           | A Fusion Framework for Camouflaged Moving Foreground Detection in the Wavelet Domain <br><sup><sub>*Shuai Li, Dinei Florencio, Wanqing Li, Yaqin Zhao, Chris Cook*</sub></sup> |     TIP<br />2018     |          [Paper](https://arxiv.org/abs/1804.05984)           |
-| 2016/10 |              **modi-PNN**              | <span style="white-space:nowrap;">Partially Camouflaged Object Tracking using Modified Probabilistic Neural Network and Fuzzy Energy based Active Contour&emsp;&emsp;&emsp;</span> <br><sup><sub>*Ajoy Mondal, Susmita Ghosh, Ashish Ghosh*</sub></sup> |    IJCV<br />2016     | [Paper](https://link.springer.com/article/10.1007/s11263-016-0959-5) |
 
 #### <span id = "12-videovcod">1.2 Video(VCOD)</span>
 
@@ -194,6 +192,7 @@ Aug. 2023
 |  2020   |      **VRS**      | Betrayed By Motion: Camouflaged Object Discovery via Motion Segmentation  `MoCA dataset`<br> <sup><sub>*Hala Lamdouar, Charig Yang, Weidi Xie,et al.*</sub></sup> |  ACCV<br />2020   | [Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Lamdouar_Betrayed_by_Motion_Camouflaged_Object_Discovery_via_Motion_Segmentation_ACCV_2020_paper.pdf)/[Code](https://github.com/hlamdouar/MoCA/) |
 |  2019   |      **FMC**      | Object discovery in videos as foreground motion clustering <br> <sup><sub>*Christopher Xie, Yu Xiang, Zaid Harchaoui, et al.*</sub></sup> |  CVPR<br />2019   | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Object_Discovery_in_Videos_as_Foreground_Motion_Clustering_CVPR_2019_paper.pdf) |
 | 2018/06 |      **HMS**      | The best of both worlds: Combining cnns and geometric constraints for hierarchical motion segmentation <br> <sup><sub>*Pia Bideau, Aruni RoyChowdhury, Rakesh R. Menon,et al.*</sub></sup> |  CVPR<br />2018   | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bideau_The_Best_of_CVPR_2018_paper.pdf)/[Code](https://github.com/pbideau/hierarchical-motion-segmentation) |
+| 2016/10 | **modi-PNN** | Partially Camouflaged Object Tracking using Modified Probabilistic Neural Network and Fuzzy Energy based Active Contour<br><sup><sub>*Ajoy Mondal, Susmita Ghosh, Ashish Ghosh*</sub></sup> | IJCV<br />2016 | [Paper](https://link.springer.com/article/10.1007/s11263-016-0959-5) |
 | 2016/09 |      **CMS**      | It’s Moving! A Probabilistic Model for Causal Motion Segmentation in Moving Camera Videos `CAD dataset`<br><sup><sub>*Bideau, Pia, and Erik Learned-Miller.*</sub></sup> |  ECCV<br />2016   | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46484-8_26) |
 
 #### <span id = "13-reference-based">1.3 Reference-Based</span>(RefCOD)
