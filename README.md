@@ -5,7 +5,7 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2024/03/18 ]</b></p>
+<p align=center><b>[ Last updated at 2024/04/08 ]</b></p>
 
 ## Contents
 
@@ -43,10 +43,10 @@ Aug. 2023
 
 |  Release   |            Method             | Title                                                        |         Pub.          |                             Links                             |
 | :-----: | :-------------------------: | ------------------------------------------------------------ | :-------------------: | :----------------------------------------------------------: |
+| 2024/04 | **LAKE-RED** | LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion<br/><sup><sub>*Pancheng Zhao, Peng Xu, Pengda Qin, Deng-Ping Fan, Zhicheng Zhang, Guoli Jia, Bowen Zhou, Jufeng Yang*</sub></sup> | CVPR<br />2024 | [Paper](https://arxiv.org/abs/2404.00292)/[Code](https://github.com/PanchengZhao/LAKE-RED) |
 | 2024/02 | **SENet** | A Simple yet Effective Network based on Vision Transformer for Camouflaged Object and Salient Object Detection<br/> <sup><sub>*Chao Hao, Zitong Yu, Xin Liu, Jun Xu, Huanjing Yue, Jingyu Yang*</sub></sup> | arXiv<br />2024 | [Paper](https://arxiv.org/abs/2402.18922)/[Code](https://github.com/linuxsino/SENet) |
 | 2024/02 | **SCLoss** | Spatial Coherence Loss for Salient and Camouflaged Object Detection and Beyond `SCLoss loss function `<br/> <sup><sub>*Ziyun Yang, Kevin Choy, Sina Farsiu*</sub></sup> | arXiv<br />2024 | [Paper](https://arxiv.org/abs/2402.18698) |
 | 2024/02 | **CoFiNet** | CoFiNet: Unveiling Camouflaged Objects with Multi-Scale Finesse<br/> <sup><sub>*Cunhan Guo, Heyan Huang*</sub></sup> | arXiv<br />2024 | [Paper](https://arxiv.org/abs/2402.02217) |
-| 2024/02 | **LAKE-RED** | LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion<br/><sup><sub>*Pancheng Zhao, Peng Xu, Pengda Qin, Deng-Ping Fan, Zhicheng Zhang, Guoli Jia, Bowen Zhou, Jufeng Yang*</sub></sup> | CVPR<br />2024 | [Code](https://github.com/PanchengZhao/LAKE-RED) |
 | 2024/01 | **HCM** | Concealed Object Segmentation with Hierarchical Coherence Modeling<br/> <sup><sub>*Fengyang Xiao, Pan Zhang, Chunming He, Runze Hu, Yutao Liu*</sub></sup> | arXiv<br />2024 | [Paper](https://arxiv.org/abs/2401.11767) |
 | 2024 | **CamoFocus** | CamoFocus: Enhancing Camouflage Object Detection With Split-Feature Focal Modulation and Context Refinement   <br/> <sup><sub>*Abbas Khan, Mustaqeem Khan, Wail Gueaieb, Abdulmotaleb El Saddik, Giulia De Masi, Fakhri Karray*</sub></sup> | WACV<br />2024 | [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Khan_CamoFocus_Enhancing_Camouflage_Object_Detection_With_Split-Feature_Focal_Modulation_and_WACV_2024_paper.pdf)/[Code](https://github.com/abbasmbz3797/CamoFocus) |
 | 2023/12 | **GenSAM** | Relax Image-Specific Prompt Requirement in SAM: A Single Generic Prompt for Segmenting Camouflaged Objects<br> <sup><sub>*Jian Hu, Jiayi Lin, Weitong Cai, Shaogang Gong*</sub></sup> | AAAI<br />2024 | [Paper](https://arxiv.org/abs/2312.07374)/[Code](https://github.com/jyLin8100/GenSAM)/[Project](https://lwpyh.github.io/GenSAM/) |
