@@ -5,7 +5,7 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2024/04/08 ]</b></p>
+<p align=center><b>[ Last updated at 2024/04/09 ]</b></p>
 
 ## Contents
 
@@ -179,7 +179,7 @@ Aug. 2023
 |  Release   |    Method     | Title                                                        |       Pub.        |                             Links                             |
 | :-----: | :---------: | ------------------------------------------------------------ | :---------------: | :----------------------------------------------------------: |
 | 2024/03 | **EMIP** | Explicit Motion Handling and Interactive Prompting for Video Camouflaged Object Detection<br/><sup><sub>*Xin Zhang, Tao Xiao, Gepeng Ji, Xuan Wu, Keren Fu, Qijun Zhao*</sub></sup> | arXiv<br />2024 | [Paper](https://arxiv.org/abs/2403.01968) |
-| 2024/02 | `TO BE UPDATED` | Endow SAM with Keen Eyes: Temporal-spatial Prompt Learning for Video Camouflaged Object Detection<br/> <sup><sub>*Wenjun Hui, Zhenfeng Zhu, Shuai Zheng, Yao Zhao*</sub></sup> | CVPR<br />2024 | [Paper](https://arxiv.org/abs/2312.16649)/[Code](https://github.com/Michel-liu/FatFormer) |
+| 2024/02 | **FatFormer** | Endow SAM with Keen Eyes: Temporal-spatial Prompt Learning for Video Camouflaged Object Detection<br/> <sup><sub>*Wenjun Hui, Zhenfeng Zhu, Shuai Zheng, Yao Zhao*</sub></sup> | CVPR<br />2024 | [Paper](https://arxiv.org/abs/2312.16649)/[Code](https://github.com/Michel-liu/FatFormer) |
 | 2023/11 | **TMNet** | TokenMotion: Motion-Guided Vision Transformer for Video Camouflaged Object Detection Via Learnable Token Selection<br/> <sup><sub>*Zifan Yu, Erfan Bank Tavakoli, Meida Chen, Suya You, Raghuveer Rao, Sanjeev Agarwal, Fengbo Ren*</sub></sup> | arXiv<br />2023 | [Paper](https://arxiv.org/abs/2311.02535) |
 | 2023/09 | **CAMEVAL** | The Making and Breaking of Camouflage ` camouflage scores function`<br> <sup><sub>*Hala Lamdouar, Weidi Xie, Andrew Zisserman*</sub></sup> | ICCV<br />2023 | [Paper](https://arxiv.org/abs/2309.03899)/[Code](https://github.com/hlamdouar/CAMEVAL) |
 | 2022/08 |      **OFS**      | EM-driven unsupervised learning for efficient motion segmentation <br> <sup><sub>*Etienne Meunier, Ana¨ıs Badoual, and Patrick Bouthemy.*</sub></sup> |  TPAMI<br />2022  | [Paper](https://ieeexplore.ieee.org/document/9855882)/[Code](https://github.com/Etienne-Meunier-Inria/EM-Flow-Segmentation) |
