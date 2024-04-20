@@ -5,7 +5,7 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2024/04/09 ]</b></p>
+<p align=center><b>[ Last updated at 2024/04/20 ]</b></p>
 
 ## Contents
 
@@ -312,6 +312,7 @@ Aug. 2023
 
 |                             Name                             | Year |      Pub.      |                            Links                             | level |
 | :----------------------------------------------------------: | :--: | :------------: | :----------------------------------------------------------: | :---: |
+| [CDS2K](https://drive.google.com/file/d/1OGPR34qCNWHVYwyf9OY6IH-7WHzPkC7-/view?usp=sharing) | 2023 |       VI       | [Paper](https://link.springer.com/10.1007/s44267-023-00019-6) | Image |
 | [R2C7K](https://pan.baidu.com/share/init?surl=LHdqpD3w24fcLb_dbR6DyA) | 2023 |     arXiv      |          [Paper](https://arxiv.org/abs/2306.07532)           | Image |
 |                            OVCamo                            | 2023 |     arXiv      |          [Paper](https://arxiv.org/abs/2311.11241)           | Image |
 | [S-COD](https://drive.google.com/file/d/1u7PRtZDu2vXCRe0o2SplVYa7ESoZQFR-/view?usp=sharing) | 2023 |      AAAI      |          [Paper](https://arxiv.org/abs/2207.14083)           | Image |
@@ -370,7 +371,7 @@ Aug. 2023
 
 ## <span id = "related-surveys-recommended">Related Surveys Recommended</span>
 
-**Advances in deep concealed scene understanding**  `COD`<br/>VI 2023. [[Paper](https://link.springer.com/10.1007/s44267-023-00019-6)] [[Code](https://github.com/DengPingFan/CSU)]<br/>Aug. 2023
+**Advances in deep concealed scene understanding**  `COD` `CDS2K dataset`<br/>VI 2023. [[Paper](https://link.springer.com/10.1007/s44267-023-00019-6)] [[Code](https://github.com/DengPingFan/CSU)]<br/>Aug. 2023
 
 **A systematic review of image-level camouflaged object detection with deep learning**  `COD`<br/>Neucom 2024. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223011736)]<br/>Jan. 2024
 
