@@ -5,7 +5,7 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2024/04/20 ]</b></p>
+<p align=center><b>[ Last updated at 2024/04/23 ]</b></p>
 
 ## Contents
 
@@ -313,12 +313,14 @@ Aug. 2023
 |                             Name                             | Year |      Pub.      |                            Links                             | level |
 | :----------------------------------------------------------: | :--: | :------------: | :----------------------------------------------------------: | :---: |
 | [CDS2K](https://drive.google.com/file/d/1OGPR34qCNWHVYwyf9OY6IH-7WHzPkC7-/view?usp=sharing) | 2023 |       VI       | [Paper](https://link.springer.com/10.1007/s44267-023-00019-6) | Image |
+| [CAM-LDR](https://drive.google.com/file/d/1inb5iNTDswFPDm4SpzBbVgZdI4puAv_3/view) | 2023 |     TCSVT      |          [Paper](https://arxiv.org/abs/2205.11333)           | Image |
 | [R2C7K](https://pan.baidu.com/share/init?surl=LHdqpD3w24fcLb_dbR6DyA) | 2023 |     arXiv      |          [Paper](https://arxiv.org/abs/2306.07532)           | Image |
 |                            OVCamo                            | 2023 |     arXiv      |          [Paper](https://arxiv.org/abs/2311.11241)           | Image |
 | [S-COD](https://drive.google.com/file/d/1u7PRtZDu2vXCRe0o2SplVYa7ESoZQFR-/view?usp=sharing) | 2023 |      AAAI      |          [Paper](https://arxiv.org/abs/2207.14083)           | Image |
 |     [CoCOD8K](https://github.com/zc199823/BBNet--CoCOD)      | 2023 |     TNNLS      |          [Paper](https://arxiv.org/abs/2310.04253)           | Image |
 |                           MHCD2022                           | 2023 | Neurocomputing | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223005891) | Image |
 | [NC4K](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment) | 2021 |      CVPR      | [Paper](https://openaccess.thecvf.com/content/CVPR2021/Papers/Lv_Simultaneously_Localize_Segment_and_Rank_the_Camouflaged_Objects_CVPR_2021_Paper.pdf) | Image |
+| [CAM-FR](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment?tab=readme-ov-file) | 2021 |      CVPR      | [Paper](https://openaccess.thecvf.com/content/CVPR2021/Papers/Lv_Simultaneously_Localize_Segment_and_Rank_the_Camouflaged_Objects_CVPR_2021_Paper.pdf) | Image |
 |            [COD10K](http://dpfan.net/camouflage/)            | 2020 |      CVPR      | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/Papers/Fan_Camouflaged_Object_Detection_CVPR_2020_Paper.pdf) | Image |
 | [CAMO](https://sites.google.com/view/ltnghia/research/camo)  | 2019 |      CVIU      | [Paper](http://www.dgcv.nii.ac.jp/Publications/Papers/2019/cviu2019.pdf) | Image |
 | [CPD1K](https://github.com/xfflyer/Camouflaged-people-detection) | 2018 |      SPL       |    [Paper](https://ieeexplore.ieee.org/document/8336933)     | Image |
