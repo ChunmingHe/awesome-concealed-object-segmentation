@@ -327,7 +327,7 @@ Aug. 2023
 | [CPD1K](https://github.com/xfflyer/Camouflaged-people-detection) | 2018 |      SPL       |    [Paper](https://ieeexplore.ieee.org/document/8336933)     | Image |
 | [CHAMELEON](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | 2017 |       -        | [Webpage](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | Image |
 | [MoCA-Mask](https://xueliancheng.github.io/SLT-Net-project/) | 2022 |      CVPR      |          [Paper](https://arxiv.org/abs/2203.07363)           | Video |
-|     [MoCA](https://www.robots.ox.ac.uk/~vgg/data/MoCA/)      | 2020 |      ACCV      | [Paper](https://openaccess.thecvf.com/content/ACCV2020/html/Lamdouar_Betrayed_by_Motion_Camouflaged_Object_Discovery_via_Motion_Segmentation_ACCV_2020_Paper.html) | Video |
+|     [MoCA](https://www.robots.ox.ac.uk/~vgg/data/MoCA/)      | 2020 |      ACCV      | [Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Lamdouar_Betrayed_by_Motion_Camouflaged_Object_Discovery_via_Motion_Segmentation_ACCV_2020_paper.pdf) | Video |
 |    [CAD](http://vis-www.cs.umass.edu/motionSegmentation/)    | 2016 |      ECCV      | [Paper](http://vis-www.cs.umass.edu/motionSegmentation/ECCV16paper/1698.pdf) | Video |
 
 ### <span id = "2-transparent-object-segmentationtos-1">2. Transparent Object Segmentation(TOS)</span>
