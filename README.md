@@ -320,9 +320,9 @@ Aug. 2023
 |     [CoCOD8K](https://github.com/zc199823/BBNet--CoCOD)      | 2023 |     TNNLS      |          [Paper](https://arxiv.org/abs/2310.04253)           | Image |
 |                           MHCD2022                           | 2023 | Neurocomputing | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223005891) | Image |
 | [CAMO++](https://sites.google.com/view/ltnghia/research/camo_plus_plus) | 2022 |      TIP       |          [Paper](https://arxiv.org/abs/2103.17123)           | Image |
-| [NC4K](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment) | 2021 |      CVPR      | [Paper](https://openaccess.thecvf.com/content/CVPR2021/Papers/Lv_Simultaneously_Localize_Segment_and_Rank_the_Camouflaged_Objects_CVPR_2021_Paper.pdf) | Image |
-| [CAM-FR](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment?tab=readme-ov-file) | 2021 |      CVPR      | [Paper](https://openaccess.thecvf.com/content/CVPR2021/Papers/Lv_Simultaneously_Localize_Segment_and_Rank_the_Camouflaged_Objects_CVPR_2021_Paper.pdf) | Image |
-|    [COD10K](https://dengpingfan.github.io/pages/COD.html)    | 2020 |      CVPR      | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/Papers/Fan_Camouflaged_Object_Detection_CVPR_2020_Paper.pdf) | Image |
+|    [COD10K](https://dengpingfan.github.io/pages/COD.html)    | 2022 |     TPAMI      |          [Paper](https://arxiv.org/abs/2102.10274)           | Image |
+| [NC4K](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment) | 2021 |      CVPR      | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Simultaneously_Localize_Segment_and_Rank_the_Camouflaged_Objects_CVPR_2021_paper.pdf) | Image |
+| [CAM-FR](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment?tab=readme-ov-file) | 2021 |      CVPR      | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Simultaneously_Localize_Segment_and_Rank_the_Camouflaged_Objects_CVPR_2021_paper.pdf) | Image |
 | [CAMO-COCO](https://sites.google.com/view/ltnghia/research/camo) | 2019 |      CVIU      | [Paper](http://www.dgcv.nii.ac.jp/Publications/Papers/2019/cviu2019.pdf) | Image |
 | [CPD1K](https://github.com/xfflyer/Camouflaged-people-detection) | 2018 |      SPL       |    [Paper](https://ieeexplore.ieee.org/document/8336933)     | Image |
 | [CHAMELEON](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | 2017 |       -        | [Webpage](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | Image |
