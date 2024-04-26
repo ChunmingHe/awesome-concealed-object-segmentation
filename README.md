@@ -5,7 +5,7 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2024/04/24 ]</b></p>
+<p align=center><b>[ Last updated at 2024/04/26 ]</b></p>
 
 ## Contents
 
@@ -96,7 +96,7 @@ Aug. 2023
 | 2023/05 | **BTSNet** | A bioinspired three-stage model for camouflaged object detection<br/> <sup><sub>*Tianyou Chen, Jin Xiao, Xiaoguang Hu, Guofeng Zhang, Shaojie Wang*</sub></sup> | arXiv<br />2023 | [Paper](https://arxiv.org/abs/2305.12635)/[Code](https://github.com/clelouch/BTSNet) |
 | 2023/04 |         **FLCNet**          | Camouflaged Object Detection with a Feature Lateral Connection Network <br> <sup><sub>*Tao Wang, Jian Wang, and Ruihao Wang*</sub></sup> | Electronics<br />2023 | [Paper](https://www.mdpi.com/2079-9292/12/12/2570)/[Code](https://github.com/Tao-Wang-CV/FLCNet) |
 | 2023/04 | **SAM-Adapter** | SAM Fails to Segment Anything? -- SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, and More  <br> <sup><sub>*Tianrun Chen, Lanyun Zhu, Chaotao Ding, Runlong Cao, Yan Wang, Zejian Li, Lingyun Sun, Papa Mao, Ying Zang*</sub></sup> | arXiv<br />2023 | [Paper](https://arxiv.org/abs/2304.09148) |
-| 2023/04 | **DCNet** | Boundary-guided context-aware network for camouflaged object detection<br/> <sup><sub>*J. Xiao, T. Chen, X. Hu, G. Zhang, S. Wang*</sub></sup> | Sensors<br />2023 | [Paper](https://dl.acm.org/doi/10.1007/s00521-023-08502-3)
+| 2023/04 | **BCNet** | Boundary-guided context-aware network for camouflaged object detection<br/> <sup><sub>*J. Xiao, T. Chen, X. Hu, G. Zhang, S. Wang*</sub></sup> | Sensors<br />2023 | [Paper](https://dl.acm.org/doi/10.1007/s00521-023-08502-3)|
 | 2023/04 | **MFNet** | Edge-guided camouflaged object detection via multi-level feature integration<br/> <sup><sub>*Kangwei Liu,Tianchi Qiu,Yinfeng Yu,Songlin Li, Xiuhong Li*</sub></sup> | Sensors<br />2023 | [Paper](https://www.mdpi.com/1424-8220/23/13/5789)/[Code](https://github.com/WkangLiu/MFNet) |
 | 2023/04 | **DBFN** | Double-branch fusion network with a parallel attention selection mechanism for camouflaged object detection  <br/> <sup><sub>*Junjiang Xiang, Qing Pan, Zhengrong Zhang, Songnian Fu & Yuwen Qin*</sub></sup> | SCIS<br />2023 | [Paper](https://link.springer.com/article/10.1007/s11432-022-3592-8) |
 | 2023/04 | **FSNet** | FSNet: Focus Scanning Network for Camouflaged Object Detection<br> <sup><sub>*Ze Song; Xudong Kang; Xiaohui Wei; Haibo Liu; Renwei Dian; Shutao Li*</sub></sup> | TIP<br />2023 | [Paper](https://ieeexplore.ieee.org/document/10103836) |
