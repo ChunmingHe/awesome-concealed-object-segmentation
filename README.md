@@ -315,7 +315,7 @@ Aug. 2023
 | :----------------------------------------------------------: | :--: | :------------: | :----------------------------------------------------------: | :---: |
 | [CDS2K](https://drive.google.com/file/d/1OGPR34qCNWHVYwyf9OY6IH-7WHzPkC7-/view?usp=sharing) | 2023 |       VI       | [Paper](https://link.springer.com/10.1007/s44267-023-00019-6) | Image |
 | [CAM-LDR](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment) | 2023 |     TCSVT      |          [Paper](https://arxiv.org/abs/2205.11333)           | Image |
-| [R2C7K](https://pan.baidu.com/share/init?surl=LHdqpD3w24fcLb_dbR6DyA) | 2023 |     arXiv      |          [Paper](https://arxiv.org/abs/2306.07532)           | Image |
+|      [R2C7K](https://github.com/zhangxuying1004/RefCOD)      | 2023 |     arXiv      |          [Paper](https://arxiv.org/abs/2306.07532)           | Image |
 |                            OVCamo                            | 2023 |     arXiv      |          [Paper](https://arxiv.org/abs/2311.11241)           | Image |
 | [S-COD](https://drive.google.com/file/d/1u7PRtZDu2vXCRe0o2SplVYa7ESoZQFR-/view?usp=sharing) | 2023 |      AAAI      |          [Paper](https://arxiv.org/abs/2207.14083)           | Image |
 |     [CoCOD8K](https://github.com/zc199823/BBNet--CoCOD)      | 2023 |     TNNLS      |          [Paper](https://arxiv.org/abs/2310.04253)           | Image |
