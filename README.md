@@ -5,7 +5,7 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2024/04/26 ]</b></p>
+<p align=center><b>[ Last updated at 2024/04/28 ]</b></p>
 
 ## Contents
 
@@ -313,22 +313,22 @@ Aug. 2023
 
 |                             Name                             | Year |      Pub.      |                            Links                             | level |
 | :----------------------------------------------------------: | :--: | :------------: | :----------------------------------------------------------: | :---: |
-| [CDS2K](https://drive.google.com/file/d/1OGPR34qCNWHVYwyf9OY6IH-7WHzPkC7-/view?usp=sharing) | 2023 |       VI       | [Paper](https://link.springer.com/10.1007/s44267-023-00019-6) | Image |
-| [CAM-LDR](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment) | 2023 |     TCSVT      |          [Paper](https://arxiv.org/abs/2205.11333)           | Image |
 |      [R2C7K](https://github.com/zhangxuying1004/RefCOD)      | 2023 |     arXiv      |          [Paper](https://arxiv.org/abs/2306.07532)           | Image |
 |                            OVCamo                            | 2023 |     arXiv      |          [Paper](https://arxiv.org/abs/2311.11241)           | Image |
-| [S-COD](https://drive.google.com/file/d/1u7PRtZDu2vXCRe0o2SplVYa7ESoZQFR-/view?usp=sharing) | 2023 |      AAAI      |          [Paper](https://arxiv.org/abs/2207.14083)           | Image |
 |     [CoCOD8K](https://github.com/zc199823/BBNet--CoCOD)      | 2023 |     TNNLS      |          [Paper](https://arxiv.org/abs/2310.04253)           | Image |
-|                           MHCD2022                           | 2023 | Neurocomputing | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223005891) | Image |
-| [CAMO++](https://sites.google.com/view/ltnghia/research/camo_plus_plus) | 2022 |      TIP       |          [Paper](https://arxiv.org/abs/2103.17123)           | Image |
+| [MHCD2022](https://github.com/liumaozhen-lmz/Military-Camouflage-MHCD2022) | 2023 | Neurocomputing | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223005891) | Image |
+|         [CDS2K](https://github.com/dengpingfan/csu)          | 2023 |       VI       | [Paper](https://link.springer.com/10.1007/s44267-023-00019-6) | Image |
+| [CAM-LDR](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment) | 2023 |     TCSVT      |          [Paper](https://arxiv.org/abs/2205.11333)           | Image |
+| [S-COD](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations) | 2023 |      AAAI      |          [Paper](https://arxiv.org/abs/2207.14083)           | Image |
 |    [COD10K](https://dengpingfan.github.io/pages/COD.html)    | 2022 |     TPAMI      |          [Paper](https://arxiv.org/abs/2102.10274)           | Image |
-| [NC4K](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment) | 2021 |      CVPR      | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Simultaneously_Localize_Segment_and_Rank_the_Camouflaged_Objects_CVPR_2021_paper.pdf) | Image |
+| [CAMO++](https://sites.google.com/view/ltnghia/research/camo_plus_plus) | 2022 |      TIP       |          [Paper](https://arxiv.org/abs/2103.17123)           | Image |
+| [MoCA-Mask](https://xueliancheng.github.io/SLT-Net-project/) | 2022 |      CVPR      |          [Paper](https://arxiv.org/abs/2203.07363)           | Video |
 | [CAM-FR](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment?tab=readme-ov-file) | 2021 |      CVPR      | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Simultaneously_Localize_Segment_and_Rank_the_Camouflaged_Objects_CVPR_2021_paper.pdf) | Image |
+| [NC4K](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment) | 2021 |      CVPR      | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Simultaneously_Localize_Segment_and_Rank_the_Camouflaged_Objects_CVPR_2021_paper.pdf) | Image |
+|     [MoCA](https://www.robots.ox.ac.uk/~vgg/data/MoCA/)      | 2020 |      ACCV      | [Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Lamdouar_Betrayed_by_Motion_Camouflaged_Object_Discovery_via_Motion_Segmentation_ACCV_2020_paper.pdf) | Video |
 | [CAMO-COCO](https://sites.google.com/view/ltnghia/research/camo) | 2019 |      CVIU      | [Paper](http://www.dgcv.nii.ac.jp/Publications/Papers/2019/cviu2019.pdf) | Image |
 | [CPD1K](https://github.com/xfflyer/Camouflaged-people-detection) | 2018 |      SPL       |    [Paper](https://ieeexplore.ieee.org/document/8336933)     | Image |
 | [CHAMELEON](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | 2017 |       -        | [Webpage](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | Image |
-| [MoCA-Mask](https://xueliancheng.github.io/SLT-Net-project/) | 2022 |      CVPR      |          [Paper](https://arxiv.org/abs/2203.07363)           | Video |
-|     [MoCA](https://www.robots.ox.ac.uk/~vgg/data/MoCA/)      | 2020 |      ACCV      | [Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Lamdouar_Betrayed_by_Motion_Camouflaged_Object_Discovery_via_Motion_Segmentation_ACCV_2020_paper.pdf) | Video |
 |    [CAD](http://vis-www.cs.umass.edu/motionSegmentation/)    | 2016 |      ECCV      | [Paper](http://vis-www.cs.umass.edu/motionSegmentation/ECCV16paper/1698.pdf) | Video |
 
 ### <span id = "2-transparent-object-segmentationtos-1">2. Transparent Object Segmentation(TOS)</span>
