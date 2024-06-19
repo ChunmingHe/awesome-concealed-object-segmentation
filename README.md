@@ -5,7 +5,7 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2024/05/21 ]</b></p>
+<p align=center><b>[ Last updated at 2024/06/19 ]</b></p>
 
 ## Contents
 
@@ -160,7 +160,7 @@ Aug. 2023
 | 2022 | **FGA** | Exploring Figure-Ground Assignment Mechanism in Perceptual Organization   <br> <sup><sub>*Wei Zhai, Yang Cao, Jing Zhang, Zheng-Jun Zha*</sub></sup> | NeurIPS<br />2022 | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6cc31b44d88dce8380d36e81485cd07f-Abstract-Conference.html) |
 | 2021/11 |         **ERRNet**          | Fast Camouflaged Object Detection via Edge-based Reversible Re-calibration Network <br><sup><sub>*Ge-Peng Ji, Lei Zhu, Mingchen Zhuge, Keren Fu*</sub></sup> |     PR<br />2022      | [Paper](https://arxiv.org/abs/2111.03216)/[Code](https://github.com/GewelsJI/ERRNet) |
 | 2021/11 |         **POCINet**         | Integrating Part-Object Relationship and Contrast for Camouflaged Object Detection  <br><sup><sub>*Yi Liu, Dingwen Zhang, Qiang Zhang, and Jungong Han*</sub></sup> |    TIFS<br />2021     | [Paper](https://ieeexplore.ieee.org/document/9600863/)/[Code](https://github.com/liuyi1989/TSPORTNet) |
-| 2021/10 | - | Boundary guidance network for camouflage object detection<br/><sup><sub>*Xiuqi Xu, Mingyu Zhu, Jinhao Yu, Shuhan Chen, Xuelong Hu, Yuequan Yang*</sub></sup> | IVC<br />2021 | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885621001888) |
+| 2021/10 | **HSC & BG** | Boundary guidance network for camouflage object detection<br/><sup><sub>*Xiuqi Xu, Mingyu Zhu, Jinhao Yu, Shuhan Chen, Xuelong Hu, Yuequan Yang*</sub></sup> | IVC<br />2021 | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885621001888) |
 | 2021/10 | **UR-COD** | Improving Camouflaged Object Detection with the Uncertainty of Pseudo-edge Labels<br/><sup><sub>*Nobukatsu Kajiura, Hong Liu, Shin'ichi Satoh*</sub></sup> | ACM MM<br />2021 | [Paper](https://arxiv.org/abs/2110.15606)/[Code](https://github.com/nobukatsu-kajiura/UR-COD?tab=readme-ov-file) |
 | 2021/07 | **CODCEF** | Cascade and Fusion: A Deep Learning Approach for Camouflaged Object Sensing<br/><sup><sub>*Kaihong Huang, ORCID,Chunshu Li, Jiaqi Zhang and Beilun Wang*</sub></sup> | Sensors<br />2021 | [Paper](https://www.mdpi.com/1424-8220/21/16/5455)/[Code](https://github.com/HHHKKKHHH/CODCEF) |
 | 2021/06 |              **UJSCNet**              | Uncertainty-aware Joint Salient Object and Camouflaged Object Detection <br><sup><sub>*Aixuan Li, Jing Zhang, Yunqiu Lv, Bowen Liu, Tong Zhang, Yuchao Dai*</sub></sup> |    CVPR<br />2021     | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Uncertainty-Aware_Joint_Salient_Object_and_Camouflaged_Object_Detection_CVPR_2021_paper.html)/[Code](https://github.com/JingZhang617/Joint_COD_SOD) |
