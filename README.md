@@ -5,7 +5,7 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2024/04/28 ]</b></p>
+<p align=center><b>[ Last updated at 2024/05/21 ]</b></p>
 
 ## Contents
 
@@ -134,6 +134,7 @@ Aug. 2023
 | 2022/09 | **EINet** | EINet: camouflaged object detection with pyramid vision transformer<br /><sup><sub>*Chen Li, Ge Jiao*</sub></sup> | JEI<br />2022 | [Paper](https://www.semanticscholar.org/paper/EINet%3A-camouflaged-object-detection-with-pyramid-Li-Jiao/37f3b1ed050efe8fda09100aef2933a07fedc6e0) |
 | 2022/09 | **MAGNet** | MAGNet: A Camouflaged Object Detection Network Simulating the Observation Effect of a Magnifier<br /><sup><sub>*Xinhao Jiang,Wei Cai,Zhili Zhang,Bo Jiang,Zhiyong Yang andXin Wang*</sub></sup> | Entropy<br />2022 | [Paper](https://www.mdpi.com/1099-4300/24/12/1804)/[Code](https://github.com/jiangxinhao2020/Magnet_eval) |
 | 2022/08 | **NCHIT** | Camouflaged object detection via Neighbor Connection and Hierarchical Information Transfer<br /><sup><sub>*Cong Zhang, Kang Wang, Hongbo Bi, Ziqi Liu, Lina Yang*</sub></sup> | CVIU<br />2022 | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314222000637) |
+| 2022/07 | **BGNet** | Boundary-Guided Camouflaged Object Detection<br /><sup><sub>*Yujia Sun, Shuo Wang, Chenglizhao Chen, Tian-Zhu Xiang*</sub></sup> | IJCAI<br />2022 | [Paper](https://arxiv.org/abs/2207.00794)/[Code](https://github.com/thograce/BGNet) |
 | 2022/07 |              **CRNet**              | Weakly-Supervised Camouflaged Object Detection with Scribble Annotations `S-COD dataset` <br><sup><sub>*Ruozhen He, Qihua Dong, Jiaying Lin, Rynson W.H. Lau*</sub></sup> |    AAAI<br />2023     | [Paper](https://arxiv.org/abs/2207.14083)/[Code](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations) |
 | 2022/07 | **PINet** | Finding the Achilles Heel: Progressive Identification Network for Camouflaged Object Detection  <br> <sup><sub>*Mu-Chun Chou, Hung-Jen Chen, Hong-Han Shuai*</sub></sup> | ICME<br />2022 | [Paper](https://ieeexplore.ieee.org/abstract/document/9859854)/[Code](https://github.com/michael861227/PINet) |
 | 2022/07 |         **BASNet**          | Boundary-Guided Camouflaged Object Detection <br> <sup><sub>*Yujia Sun, Shuo Wang, Chenglizhao Chen, Tian-Zhu Xiang*</sub></sup> |    IJCAI<br />2022    | [Paper](https://www.ijcai.org/proceedings/2022/186)/[Code](https://github.com/thograce/BGNet) |
@@ -159,6 +160,7 @@ Aug. 2023
 | 2022 | **FGA** | Exploring Figure-Ground Assignment Mechanism in Perceptual Organization   <br> <sup><sub>*Wei Zhai, Yang Cao, Jing Zhang, Zheng-Jun Zha*</sub></sup> | NeurIPS<br />2022 | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6cc31b44d88dce8380d36e81485cd07f-Abstract-Conference.html) |
 | 2021/11 |         **ERRNet**          | Fast Camouflaged Object Detection via Edge-based Reversible Re-calibration Network <br><sup><sub>*Ge-Peng Ji, Lei Zhu, Mingchen Zhuge, Keren Fu*</sub></sup> |     PR<br />2022      | [Paper](https://arxiv.org/abs/2111.03216)/[Code](https://github.com/GewelsJI/ERRNet) |
 | 2021/11 |         **POCINet**         | Integrating Part-Object Relationship and Contrast for Camouflaged Object Detection  <br><sup><sub>*Yi Liu, Dingwen Zhang, Qiang Zhang, and Jungong Han*</sub></sup> |    TIFS<br />2021     | [Paper](https://ieeexplore.ieee.org/document/9600863/)/[Code](https://github.com/liuyi1989/TSPORTNet) |
+| 2021/10 | - | Boundary guidance network for camouflage object detection<br/><sup><sub>*Xiuqi Xu, Mingyu Zhu, Jinhao Yu, Shuhan Chen, Xuelong Hu, Yuequan Yang*</sub></sup> | IVC<br />2021 | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885621001888) |
 | 2021/10 | **UR-COD** | Improving Camouflaged Object Detection with the Uncertainty of Pseudo-edge Labels<br/><sup><sub>*Nobukatsu Kajiura, Hong Liu, Shin'ichi Satoh*</sub></sup> | ACM MM<br />2021 | [Paper](https://arxiv.org/abs/2110.15606)/[Code](https://github.com/nobukatsu-kajiura/UR-COD?tab=readme-ov-file) |
 | 2021/07 | **CODCEF** | Cascade and Fusion: A Deep Learning Approach for Camouflaged Object Sensing<br/><sup><sub>*Kaihong Huang, ORCID,Chunshu Li, Jiaqi Zhang and Beilun Wang*</sub></sup> | Sensors<br />2021 | [Paper](https://www.mdpi.com/1424-8220/21/16/5455)/[Code](https://github.com/HHHKKKHHH/CODCEF) |
 | 2021/06 |              **UJSCNet**              | Uncertainty-aware Joint Salient Object and Camouflaged Object Detection <br><sup><sub>*Aixuan Li, Jing Zhang, Yunqiu Lv, Bowen Liu, Tong Zhang, Yuchao Dai*</sub></sup> |    CVPR<br />2021     | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Uncertainty-Aware_Joint_Salient_Object_and_Camouflaged_Object_Detection_CVPR_2021_paper.html)/[Code](https://github.com/JingZhang617/Joint_COD_SOD) |
@@ -217,6 +219,7 @@ Aug. 2023
 
 |  Release   |     Method     | Title                                                        |      Pub.      |                             Links                             |
 | :-----: | :----------: | ------------------------------------------------------------ | :------------: | :----------------------------------------------------------: |
+| 2023/12 | - | **Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation**<br/><sup><sub>*Tuan-Anh Vu, Duc Thanh Nguyen, Qing Guo, Binh-Son Hua, Nhat Minh Chung, Ivor W. Tsang, Sai-Kit Yeung*</sub></sup> | arXiv<br />2023 | [Paper](https://arxiv.org/abs/2312.17505) |
 | 2023/11 | **OVCoser** | Open-Vocabulary Camouflaged Object Segmentation`OVCamo dataset`<br/><sup><sub>*Youwei Pang, Xiaoqi Zhao, Jiaming Zuo, Lihe Zhang, Huchuan Lu*</sub></sup> | arXiv<br />2023 | [Paper](https://arxiv.org/abs/2311.11241) |
 
 ### <span id = "2-transparent-object-segmentationtos">2. Transparent Object Segmentation(TOS)</span>
