@@ -5,7 +5,7 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2024/07/07 ]</b></p>
+<p align=center><b>[ Last updated at 2024/07/09 ]</b></p>
 
 ## Contents
 
@@ -113,6 +113,7 @@ Aug. 2023
 | 2023/04 | **FSNet** | FSNet: Focus Scanning Network for Camouflaged Object Detection<br> <sup><sub>*Ze Song; Xudong Kang; Xiaohui Wei; Haibo Liu; Renwei Dian; Shutao Li*</sub></sup> | TIP<br />2023 | [Paper](https://ieeexplore.ieee.org/document/10103836)/[Code](ttps://github.com/SongZeHNU/FSNet) |
 | 2023/04 | **CamDiff** | CamDiff: Camouflage image augmentation via diffusion model<br/>`Diff-COD dataset` <sup><sub>*Xue-Jing Luo, Shuo Wang, Zongwei Wu, Christos Sakaridis, Yun Cheng, Deng-Ping Fan, Luc Van Gool*</sub></sup> | CAAI AIR<br />2023 | [Paper](https://arxiv.org/abs/2304.05469)/[Code](https://github.com/drlxj/CamDiff) |
 | 2023/04 | **CAMO-FS** | The Art of Camouflage<br/> <sup><sub>*Thanh-Danh Nguyen, Anh-Khoa Nguyen Vu, Nhat-Duy Nguyen, Vinh-Tiep Nguyen, Thanh Duc Ngo, Thanh-Toan Do, Minh-Triet Tran, Tam V. Nguyen*</sub></sup> | arXiv<br />2023 | [Paper](https://arxiv.org/abs/2304.07444) |
+| 2023/03 | **Semi-SINet** | Camouflaged people detection based on a semi-supervised search identification network<br/> <sup><sub>*Yang Liu, Cong-qing Wang, Yong-jun Zhou*</sub></sup> | Def. Technol.<br />2023 | [Paper](https://www.sciencedirect.com/science/article/pii/S2214914721001586) |
 | 2023/03 | **SARNet** | Go Closer To See Better: Camouflaged Object Detection via Object Area Amplification and Figure-ground Conversion  <br> <sup><sub>*Haozhe Xing; Yan Wang; Xujun Wei; Hao Tang; Shuyong Gao; Wenqiang Zhang*</sub></sup> | TCSVT<br />2023 | [Paper](https://ieeexplore.ieee.org/abstract/document/10065514)/[Code](https://github.com/Haozhe-Xing/SARNet) |
 | 2023/03 | **SAT** | Nowhere to Disguise: Spot Camouflaged Objects via Saliency Attribute Transfer   <br> <sup><sub>*Wenda Zhao; Shigeng Xie; Fan Zhao; You He; Huchuan Lu*</sub></sup> | TIP<br />2023 | [Paper](https://ieeexplore.ieee.org/abstract/document/10132418)/[Code](https://github.com/wdzhao123/SAT) |
 | 2023/03 | **AdvART** | AdvART: Adversarial Art for Camouflaged Object Detection Attacks <br/> <sup><sub>*Amira Guesmi, Ioan Marius Bilasco, Muhammad Shafique, Ihsen Alouani*</sub></sup> | arXiv<br />2023 | [Paper](https://arxiv.org/abs/2303.01734) |
