@@ -5,7 +5,7 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2024/07/09 ]</b></p>
+<p align=center><b>[ Last updated at 2024/07/11 ]</b></p>
 
 ## Contents
 
@@ -69,7 +69,6 @@ Aug. 2023
 | 2023/10 | **BBNet** | Collaborative Camouflaged Object Detection: A Large-Scale Dataset and Benchmark `CoCOD8K dataset`  <br> <sup><sub>*Cong Zhang, Hongbo Bi, Tian-Zhu Xiang, Ranwan Wu, Jinghui Tong, Xiufang Wang*</sub></sup> | TNNLS<br />2023 | [Paper](https://arxiv.org/abs/2310.04253)/[Code](https://github.com/zc199823/BBNet--CoCOD) |
 | 2023/10 | **CINet** | Camouflaged object detection with counterfactual intervention    <br> <sup><sub>*Xiaofei Li, Hongying Li, Hao Zhou, Miaomiao Yu, Dong Chen, Shuohao Li, Jun Zhang*</sub></sup> | Neuro<br />2023 | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223006537) |
 | 2023/10 | **PrObeD** | PrObeD: Proactive Object Detection Wrapper<br/> <sup><sub>*Vishal Asnani, Abhinav Kumar, Suya You, Xiaoming Liu*</sub></sup> | NeurIPS<br />2023 | [Paper](https://arxiv.org/abs/2310.18788)/[Code](https://github.com/vishal3477/Proactive-Object-Detection) |
-| 2023/10 | **ZoomNeXt** | ZoomNeXt: A Unified Collaborative Pyramid Network for Camouflaged Object Detection<br> <sup><sub>*Youwei Pang, Xiaoqi Zhao, Tian-Zhu Xiang, Lihe Zhang, Huchuan Lu*</sub></sup> | arXiv<br />2023 | [Paper](https://arxiv.org/abs/2310.20208)/[Code](https://github.com/lartpang/ZoomNeXt) |
 | 2023/10 | **PFRNet** | You Do Not Need Additional Priors in Camouflage Object Detection<br/> <sup><sub>*Yuchen Dong, Heng Zhou, Chengyang Li, Junjie Xie, Yongqiang Xie, Zhongbo Li*</sub></sup> | arXiv<br />2023 | [Paper](https://arxiv.org/abs/2310.00702) |
 | 2023/09 | **MHNet** | Extraordinary MHNet: Military high-level camouflage object detection network and dataset `MHCD2022 dataset  ` <br/><sup><sub>*Maozhen Liu, Xiaoguang Di*</sub></sup> | Neuro<br />2023 | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223005891) |
 | 2023/09 | **DCNet** | Dual-Constraint Coarse-to-Fine Network for Camouflaged Object Detection  <br> <sup><sub>*Guanghui Yue; Houlu Xiao; Hai Xie; Tianwei Zhou; Wei Zhou; Weiqing Yan; etc.*</sub></sup> | TCSVT<br />2023 | [Paper](https://ieeexplore.ieee.org/abstract/document/10262011) |
@@ -194,6 +193,7 @@ Aug. 2023
 | 2024/02 | **FatFormer** | Endow SAM with Keen Eyes: Temporal-spatial Prompt Learning for Video Camouflaged Object Detection<br/> <sup><sub>*Wenjun Hui, Zhenfeng Zhu, Shuai Zheng, Yao Zhao*</sub></sup> | CVPR<br />2024 | [Paper](https://arxiv.org/abs/2312.16649)/[Code](https://github.com/Michel-liu/FatFormer) |
 | 2024/02 | **IMEX** | Implicit-Explicit Motion Learning for Video Camouflaged Object Detection<br/> <sup><sub>*Wenjun Hui; Zhenfeng Zhu; Guanghua Gu; Meiqin Liu; Yao Zhao*</sub></sup> | TMM<br />2024 | [Paper](https://ieeexplore.ieee.org/abstract/document/10430451) |
 | 2023/11 | **TMNet** | TokenMotion: Motion-Guided Vision Transformer for Video Camouflaged Object Detection Via Learnable Token Selection<br/> <sup><sub>*Zifan Yu, Erfan Bank Tavakoli, Meida Chen, Suya You, Raghuveer Rao, Sanjeev Agarwal, Fengbo Ren*</sub></sup> | arXiv<br />2023 | [Paper](https://arxiv.org/abs/2311.02535) |
+| 2023/10 | **ZoomNeXt** | ZoomNeXt: A Unified Collaborative Pyramid Network for Camouflaged Object Detection<br> <sup><sub>*Youwei Pang, Xiaoqi Zhao, Tian-Zhu Xiang, Lihe Zhang, Huchuan Lu*</sub></sup> | arXiv<br />2023 | [Paper](https://arxiv.org/abs/2310.20208)/[Code](https://github.com/lartpang/ZoomNeXt) |
 | 2023/09 | **CAMEVAL** | The Making and Breaking of Camouflage ` camouflage scores function`<br> <sup><sub>*Hala Lamdouar, Weidi Xie, Andrew Zisserman*</sub></sup> | ICCV<br />2023 | [Paper](https://arxiv.org/abs/2309.03899)/[Code](https://github.com/hlamdouar/CAMEVAL) |
 | 2022/08 |      **OFS**      | EM-driven unsupervised learning for efficient motion segmentation <br> <sup><sub>*Etienne Meunier, Ana¨ıs Badoual, and Patrick Bouthemy.*</sub></sup> |  TPAMI<br />2022  | [Paper](https://ieeexplore.ieee.org/document/9855882)/[Code](https://github.com/Etienne-Meunier-Inria/EM-Flow-Segmentation) |
 | 2022/06 | **SLTNet** | Implicit Motion Handling for Video Camouflaged Object Detection `MoCA-Mask dataset` <br> <sup><sub>*Xuelian Cheng, Huan Xiong, Deng-Ping Fan, et al.*</sub></sup> |  CVPR<br />2022   | [Paper](https://dengpingfan.github.io/papers/[2022][CVPR]VCOD_MoCA-Mask.pdf)/[Code](https://github.com/XuelianCheng/SLT-Net) |
