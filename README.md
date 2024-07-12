@@ -5,7 +5,7 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2024/07/11 ]</b></p>
+<p align=center><b>[ Last updated at 2024/07/12 ]</b></p>
 
 ## Contents
 
@@ -213,7 +213,7 @@ Aug. 2023
 |  Release   |    Method     | Title                                                        | Pub. |                             Links                             |
 | :-----: | :---------: | ------------------------------------------------------------ | :--: | :----------------------------------------------------------: |
 | 2023/11 |  **MLKG**   | Large Model Based Referring Camouflaged Object Detection<br/><sup><sub>*Shupeng Cheng, Ge-Peng Ji, Pengda Qin, Deng-Ping Fan, Bowen Zhou, Peng Xu*</sub></sup> | arXiv<br />2023 |          [Paper](https://arxiv.org/abs/2311.17122)           |
-| 2023/06 | **Ref-COD** | Referring Camouflaged Object Detection `R2C7K dataset`<br/><sup><sub>*Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng*</sub></sup> | arXiv<br />2023 | [Paper](https://arxiv.org/abs/2306.07532)/[Code](https://github.com/zhangxuying1004/RefCOD) |
+| 2023/06 | **R2CNet** | Referring Camouflaged Object Detection `R2C7K dataset`<br/><sup><sub>*Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng*</sub></sup> | arXiv<br />2023 | [Paper](https://arxiv.org/abs/2306.07532)/[Code](https://github.com/zhangxuying1004/RefCOD) |
 
 #### <span id = "14-open-vocabularyovd">1.4 Open-Vocabulary(OVCOD)</span>
 
