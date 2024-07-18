@@ -5,7 +5,7 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2024/07/12 ]</b></p>
+<p align=center><b>[ Last updated at 2024/07/18 ]</b></p>
 
 ## Contents
 
@@ -190,7 +190,7 @@ Aug. 2023
 | :-----: | :---------: | ------------------------------------------------------------ | :---------------: | :----------------------------------------------------------: |
 | 2024/06 | **SAM-PM** | SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention<br/><sup><sub>*Muhammad Nawfal Meeran, Gokul Adethya T, Bhanu Pratyush Mantha*</sub></sup> | CVPR Ws<br />2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024W/PVUW/html/Meeran_SAM-PM_Enhancing_Video_Camouflaged_Object_Detection_using_Spatio-Temporal_Attention_CVPRW_2024_paper.html)/[Code](https://github.com/SpiderNitt/SAM-PM) |
 | 2024/03 | **EMIP** | Explicit Motion Handling and Interactive Prompting for Video Camouflaged Object Detection<br/><sup><sub>*Xin Zhang, Tao Xiao, Gepeng Ji, Xuan Wu, Keren Fu, Qijun Zhao*</sub></sup> | arXiv<br />2024 | [Paper](https://arxiv.org/abs/2403.01968) |
-| 2024/02 | **FatFormer** | Endow SAM with Keen Eyes: Temporal-spatial Prompt Learning for Video Camouflaged Object Detection<br/> <sup><sub>*Wenjun Hui, Zhenfeng Zhu, Shuai Zheng, Yao Zhao*</sub></sup> | CVPR<br />2024 | [Paper](https://arxiv.org/abs/2312.16649)/[Code](https://github.com/Michel-liu/FatFormer) |
+| 2024/02 | **FatFormer** | Endow SAM with Keen Eyes: Temporal-spatial Prompt Learning for Video Camouflaged Object Detection<br/> <sup><sub>*Wenjun Hui, Zhenfeng Zhu, Shuai Zheng, Yao Zhao*</sub></sup> | CVPR<br />2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hui_Endow_SAM_with_Keen_Eyes_Temporal-spatial_Prompt_Learning_for_Video_CVPR_2024_paper.pdf)/[Code](https://github.com/Michel-liu/FatFormer) |
 | 2024/02 | **IMEX** | Implicit-Explicit Motion Learning for Video Camouflaged Object Detection<br/> <sup><sub>*Wenjun Hui; Zhenfeng Zhu; Guanghua Gu; Meiqin Liu; Yao Zhao*</sub></sup> | TMM<br />2024 | [Paper](https://ieeexplore.ieee.org/abstract/document/10430451) |
 | 2023/11 | **TMNet** | TokenMotion: Motion-Guided Vision Transformer for Video Camouflaged Object Detection Via Learnable Token Selection<br/> <sup><sub>*Zifan Yu, Erfan Bank Tavakoli, Meida Chen, Suya You, Raghuveer Rao, Sanjeev Agarwal, Fengbo Ren*</sub></sup> | arXiv<br />2023 | [Paper](https://arxiv.org/abs/2311.02535) |
 | 2023/10 | **ZoomNeXt** | ZoomNeXt: A Unified Collaborative Pyramid Network for Camouflaged Object Detection<br> <sup><sub>*Youwei Pang, Xiaoqi Zhao, Tian-Zhu Xiang, Lihe Zhang, Huchuan Lu*</sub></sup> | arXiv<br />2023 | [Paper](https://arxiv.org/abs/2310.20208)/[Code](https://github.com/lartpang/ZoomNeXt) |
