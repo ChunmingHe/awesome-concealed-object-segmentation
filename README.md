@@ -43,6 +43,7 @@ Aug. 2023
 
 |  Release   |            Method             | <br />Title                                                  |         Pub.          |                             Links                             |
 | :-----: | :-------------------------: | ------------------------------------------------------------ | :-------------------: | :----------------------------------------------------------: |
+| 2024/08 | **SAM2-UNet** | SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation<br/><sup><sub>*Xinyu Xiong, Zihuang Wu, Shuangyi Tan, Wenxue Li, Feilong Tang, Ying Chen, Siying Li, Jie Ma, Guanbin Li*</sub></sup> | arXiv<br />2024 | [Paper](https://arxiv.org/abs/2408.08870) |
 | 2024/07 | **WSSCOD** | Learning Camouflaged Object Detection from Noisy Pseudo Label<br/><sup><sub>*Jin Zhang, Ruiheng Zhang, Yanjiao Shi, Zhe Cao, Nian Liu, Fahad Shahbaz Khan*</sub></sup> | ECCV<br />2024 | [Paper](https://arxiv.org/abs/2407.13157) |
 | 2024/07 | **FocusDiffuser** | FocusDiffuser: Perceiving Local Disparities for Camouflaged Object Detection<br/><sup><sub>*Jianwei Zhao, Xin Li, Fan Yang, Qiang Zhai, Ao Luo, Zicheng Jiao, Hong Cheng*</sub></sup> | arXiv<br />2024 | [Paper](https://arxiv.org/abs/2407.13133) |
 | 2024/07 | **DSAM** | Exploring Deeper! Segment Anything Model with Depth Perception for Camouflaged Object Detection<br/><sup><sub>*Zhenni Yu, Xiaoqin Zhang, Li Zhao, Yi Bin, Guobao Xiao*</sub></sup> | ACM MM<br />2024 | [Paper](https://arxiv.org/abs/2407.12339)/[Code](https://github.com/guobaoxiao/DSAM) |
