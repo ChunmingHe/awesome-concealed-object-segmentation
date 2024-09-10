@@ -5,11 +5,12 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2024/08/30 ]</b></p>
+<p align=center><b>[ Last updated at 2024/09/10 ]</b></p>
 
 ## Contents
 
 * [Latest Works Recommended](#latest-works-recommended)
+* [Citation](#Citation)
 * [Papers](#papers)
   * [Camouflaged Object Detection(COD)](#1-camouflaged-object-detectioncod)
     * [Image-level COD](#11-Image-level-COD)
@@ -36,6 +37,19 @@
 **A Survey of Camouflaged Object Detection and Beyond**  <br/>Fengyang Xiao, Sujie Hu, Yuqi Shen, Chengyu Fang, Jinfa Huang, Chunming He, Longxiang Tang, Ziyun Yang, Xiu Li<br/>
 arxiv 2024. [[Paper](https://arxiv.org/abs/2408.14562)] [[Code](https://github.com/ChunmingHe/awesome-concealed-object-segmentation)]<br/>Aug. 2024
 
+## <span id = "Citation">Citation</span>
+
+If you find our work useful in your research, please consider citing:
+
+```
+@article{2024CODsurvey,
+  title={A Survey of Camouflaged Object Detection and Beyond},
+  author={Xiao, Fengyang and Hu, Sujie and Shen, Yuqi and Fang, Chengyu and Huang, Jinfa and He, Chunming and Tang, Longxiang and Yang, Ziyun and Li, Xiu},
+  journal={arXiv preprint arXiv:2408.14562},
+  year={2024}
+}
+```
+
 ## <span id = "papers">Papers</span>
 
 ### <span id = "1-camouflaged-object-detectioncod">1. Camouflaged Object Detection(COD)</span>
@@ -46,9 +60,10 @@ arxiv 2024. [[Paper](https://arxiv.org/abs/2408.14562)] [[Code](https://github.c
 
 |  Release   |            Method             | <br />Title                                                  |         Pub.          |                             Links                             |
 | :-----: | :-------------------------: | ------------------------------------------------------------ | :-------------------: | :----------------------------------------------------------: |
+| 2024/09 | **FSEL** | Frequency-Spatial Entanglement Learning for Camouflaged Object Detection<br/><sup><sub>*Yanguang Sun, Chunyan Xu, Jian Yang, Hanyu Xuan, Lei Luo*</sub></sup> | ECCV<br />2024 | [Paper](https://arxiv.org/abs/2409.01686)/[Code](https://github.com/CSYSI/FSEL) |
 | 2024/08 | **HGINet** | Hierarchical Graph Interaction Transformer with Dynamic Token Clustering for Camouflaged Object Detection<br/><sup><sub>*Siyuan Yao, Hao Sun, Tian-Zhu Xiang, Xiao Wang, Xiaochun Cao*</sub></sup> | arXiv<br />2024 | [Paper](https://arxiv.org/abs/2408.15020)/[Code](https://github.com/Garyson1204/HGINet) |
 | 2024/08 | **PSCOD** | Just a Hint: Point-Supervised Camouflaged Object Detection<br/><sup><sub>*Huafeng Chen, Dian Shao, Guangqian Guo, Shan Gao*</sub></sup> | ECCV<br />2024 | [Paper](https://arxiv.org/abs/2408.10777) |
-| 2024/08 | **SAM-COD** | SAM-COD: SAM-guided Unified Framework for Weakly-Supervised Camouflaged Object Detection<br/><sup><sub>*Huafeng Chen, Pengxu Wei, Guangqian Guo, Shan Gao*</sub></sup> | ECCV<br />2024 | [Paper](https://arxiv.org/abs/2408.10760)/ |
+| 2024/08 | **SAM-COD** | SAM-COD: SAM-guided Unified Framework for Weakly-Supervised Camouflaged Object Detection<br/><sup><sub>*Huafeng Chen, Pengxu Wei, Guangqian Guo, Shan Gao*</sub></sup> | ECCV<br />2024 | [Paper](https://arxiv.org/abs/2408.10760) |
 | 2024/08 | **SAM2-UNet** | SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation<br/><sup><sub>*Xinyu Xiong, Zihuang Wu, Shuangyi Tan, Wenxue Li, Feilong Tang, Ying Chen, Siying Li, Jie Ma, Guanbin Li*</sub></sup> | arXiv<br />2024 | [Paper](https://arxiv.org/abs/2408.08870)/[Code](https://github.com/WZH0120/SAM2-UNet) |
 | 2024/08 | **CamoTeacher** | CamoTeacher: Dual-Rotation Consistency Learning for Semi-Supervised Camouflaged Object Detection<br/><sup><sub>*Xunfa Lai, Zhiyu Yang, Jie Hu, Shengchuan Zhang, Liujuan Cao, Guannan Jiang, Zhiyu Wang, Songan Zhang, Rongrong Ji*</sub></sup> | ECCV<br />2024 | [Paper](https://arxiv.org/abs/2408.08050) |
 | 2024/08 | **MCA-SAM** | Multi-scale Contrastive Adaptor Learning for Segmenting Anything in Underperformed Scenes<br/><sup><sub>*Ke Zhou, Zhongwei Qiu, Dongmei Fu*</sub></sup> | Neurocomputing<br /> 2024 | [Paper](https://arxiv.org/abs/2408.05936) |
