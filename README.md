@@ -5,7 +5,7 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2024/09/25 ]</b></p>
+<p align=center><b>[ Last updated at 2024/09/26 ]</b></p>
 
 ## Contents
 
@@ -64,6 +64,9 @@ If you find our work useful in your research, please consider citing:
 
 |  Release   |            Method             | <br />Title                                                  |         Pub.          |                             Links                             |
 | :-----: | :-------------------------: | ------------------------------------------------------------ | :-------------------: | :----------------------------------------------------------: |
+| 2024/09 | **MM-CamObj** | MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios<br/><sup><sub>*Jiacheng Ruan, Wenzhen Yuan, Zehao Lin, Ning Liao, Zhiyu Li, Feiyu Xiong, Ting Liu, Yuzhuo Fu*</sub></sup> | arXiv<br />2024 | [Paper](https://arxiv.org/abs/2409.16084) |
+| 2024/09 | **FGSA-Net** | Frequency-Guided Spatial Adaptation for Camouflaged Object Detection<br/><sup><sub>*Shizhou Zhang, Dexuan Kong, Yinghui Xing, Yue Lu, Lingyan Ran, Guoqiang Liang, Hexu Wang, Yanning Zhang*</sub></sup> | TMM<br />2024 | [Paper](https://arxiv.org/abs/2409.12421) |
+| 2024/09 | **GLCONet** | GLCONet: Learning Multi-source Perception Representation for Camouflaged Object Detection<br/><sup><sub>*Yanguang Sun, Hanyu Xuan, Jian Yang, Lei Luo*</sub></sup> | TNNLS<br />2024 | [Paper](https://arxiv.org/abs/2409.09588)/[Code](https://github.com/CSYSI/GLCONet) |
 | 2024/09 | **FSEL** | Frequency-Spatial Entanglement Learning for Camouflaged Object Detection<br/><sup><sub>*Yanguang Sun, Chunyan Xu, Jian Yang, Hanyu Xuan, Lei Luo*</sub></sup> | ECCV<br />2024 | [Paper](https://arxiv.org/abs/2409.01686)/[Code](https://github.com/CSYSI/FSEL) |
 | 2024/09 | **SDRNet** | SDRNet: Camouflaged object detection with independent reconstruction of structure and detail<br/><sup><sub>*Juwei Guan, Xiaolin Fang, Tongxin Zhu, Weiqi Qian*</sub></sup> | KBS<br/>2024 | [ Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124006853)/[Code](https://github.com/whyandbecause/SDRNet/) |
 | 2024 | **DCPNet** | Dual cross perception network with texture and boundary guidance for camouflaged object detection<br/><sup><sub>*Yaming Wang, Jiatong Chen, Xian Fang, Mingfeng Jiang, Jianhua Ma*</sub></sup> | CVIU<br/>2024 | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314224002121) |
