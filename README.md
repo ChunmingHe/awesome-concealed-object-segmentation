@@ -5,7 +5,7 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2024/09/26 ]</b></p>
+<p align=center><b>[ Last updated at 2024/10/09 ]</b></p>
 
 ## Contents
 
@@ -36,8 +36,11 @@
 
 ## <span id = "latest-works-recommended">Latest Works Recommended</span>
 
-**A Survey of Camouflaged Object Detection and Beyond**  <br/>Fengyang Xiao, Sujie Hu, Yuqi Shen, Chengyu Fang, Jinfa Huang, Chunming He, Longxiang Tang, Ziyun Yang, Xiu Li<br/>
-arxiv 2024. [[Paper](https://arxiv.org/abs/2408.14562)] [[Code](https://github.com/ChunmingHe/awesome-concealed-object-segmentation)]<br/>Aug. 2024
+**Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation**  **`ProMaC`**<br/>Jian Hu, Jiayi Lin, Junchi Yan, Shaogang Gong<br/>*NeurIPS*, 2024. [[Paper](https://arxiv.org/abs/2408.15205)] [[Code](https://lwpyh.github.io/ProMaC/)]<br/>Sep. 2024
+
+**A Survey of Camouflaged Object Detection and Beyond**  <br/>Fengyang Xiao, Sujie Hu, Yuqi Shen, Chengyu Fang, Jinfa Huang, Chunming He, Longxiang Tang, Ziyun Yang, Xiu Li<br/>*arxiv*, 2024. [[Paper](https://arxiv.org/abs/2408.14562)] [[Code](https://github.com/ChunmingHe/awesome-concealed-object-segmentation)]<br/>Aug. 2024
+
+**Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation** **`GenSAM`**  <br/>Jian Hu, Jiayi Lin, Junchi Yan, Shaogang Gong<br/>AAAI, 2024. [[Paper](https://arxiv.org/abs/2312.07374)] [[Code](https://lwpyh.github.io/GenSAM/)]<br/>Dec. 2023
 
 ## <span id = "Citation">Citation</span>
 
@@ -69,7 +72,7 @@ If you find our work useful in your research, please consider citing:
 | 2024/09 | **GLCONet** | GLCONet: Learning Multi-source Perception Representation for Camouflaged Object Detection<br/><sup><sub>*Yanguang Sun, Hanyu Xuan, Jian Yang, Lei Luo*</sub></sup> | TNNLS<br />2024 | [Paper](https://arxiv.org/abs/2409.09588)/[Code](https://github.com/CSYSI/GLCONet) |
 | 2024/09 | **FSEL** | Frequency-Spatial Entanglement Learning for Camouflaged Object Detection<br/><sup><sub>*Yanguang Sun, Chunyan Xu, Jian Yang, Hanyu Xuan, Lei Luo*</sub></sup> | ECCV<br />2024 | [Paper](https://arxiv.org/abs/2409.01686)/[Code](https://github.com/CSYSI/FSEL) |
 | 2024/09 | **SDRNet** | SDRNet: Camouflaged object detection with independent reconstruction of structure and detail<br/><sup><sub>*Juwei Guan, Xiaolin Fang, Tongxin Zhu, Weiqi Qian*</sub></sup> | KBS<br/>2024 | [ Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124006853)/[Code](https://github.com/whyandbecause/SDRNet/) |
-| 2024 | **DCPNet** | Dual cross perception network with texture and boundary guidance for camouflaged object detection<br/><sup><sub>*Yaming Wang, Jiatong Chen, Xian Fang, Mingfeng Jiang, Jianhua Ma*</sub></sup> | CVIU<br/>2024 | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314224002121) |
+| 2024/08 | **ProMaC** | Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation<br/><sup><sub>*Jian Hu, Jiayi Lin, Junchi Yan, Shaogang Gong*</sub></sup> | NeurIPS<br />2024 | [Paper](https://arxiv.org/abs/2408.15205)/[Code](https://lwpyh.github.io/ProMaC/) |
 | 2024/08 | **ACUMEN** | Unlocking Attributes' Contribution to Successful Camouflage: A Combined Textual and VisualAnalysis Strategy<br/><sup><sub>*Hong Zhang, Yixuan Lyu, Qian Yu, Hanyang Liu, Huimin Ma, Ding Yuan, Yifan Yang*</sub></sup> | ECCV<br />2024 | [Paper](https://arxiv.org/abs/2408.12086)/[Code](https://github.com/lyu-yx/ACUMEN) |
 | 2024/08 | **PSCOD** | Just a Hint: Point-Supervised Camouflaged Object Detection<br/><sup><sub>*Huafeng Chen, Dian Shao, Guangqian Guo, Shan Gao*</sub></sup> | ECCV<br />2024 | [Paper](https://arxiv.org/abs/2408.10777) |
 | 2024/08 | **SAM-COD** | SAM-COD: SAM-guided Unified Framework for Weakly-Supervised Camouflaged Object Detection<br/><sup><sub>*Huafeng Chen, Pengxu Wei, Guangqian Guo, Shan Gao*</sub></sup> | ECCV<br />2024 | [Paper](https://arxiv.org/abs/2408.10760) |
@@ -79,6 +82,7 @@ If you find our work useful in your research, please consider citing:
 | 2024/08 | **HGINet** | Hierarchical Graph Interaction Transformer with Dynamic Token Clustering for Camouflaged Object Detection<br/><sup><sub>*Siyuan Yao, Hao Sun, Tian-Zhu Xiang, Xiao Wang, Xiaochun Cao*</sub></sup> | arXiv<br />2024 | [Paper](https://arxiv.org/abs/2408.15020)/[Code](https://github.com/Garyson1204/HGINet) |
 | 2024/08 | **SAM2-UNet** | SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation<br/><sup><sub>*Xinyu Xiong, Zihuang Wu, Shuangyi Tan, Wenxue Li, Feilong Tang, Ying Chen, Siying Li, Jie Ma, Guanbin Li*</sub></sup> | arXiv<br />2024 | [Paper](https://arxiv.org/abs/2408.08870)/[Code](https://github.com/WZH0120/SAM2-UNet) |
 | 2024/08 | **SAM2-Adapter** | SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More<br/><sup><sub>*Tianrun Chen, Ankang Lu, Lanyun Zhu, Chaotao Ding, Chunan Yu, Deyi Ji, Zejian Li, Lingyun Sun, Papa Mao, Ying Zang*</sub></sup> | arXiv<br />2024 | [Paper](https://arxiv.org/abs/2408.04579) |
+| 2024 | **DCPNet** | Dual cross perception network with texture and boundary guidance for camouflaged object detection<br/><sup><sub>*Yaming Wang, Jiatong Chen, Xian Fang, Mingfeng Jiang, Jianhua Ma*</sub></sup> | CVIU<br/>2024 | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314224002121) |
 | 2024/07 | - | Evaluating SAM2's Role in Camouflaged Object Detection: From SAM to SAM2<br/><sup><sub>*Lv Tang, Bo Li*</sub></sup> | arXiv<br />2024 | [Paper](https://arxiv.org/abs/2407.21596)/[Code](https://github.com/luckybird1994/SAMCOD) |
 | 2024/07 | **WSSCOD** | Learning Camouflaged Object Detection from Noisy Pseudo Label<br/><sup><sub>*Jin Zhang, Ruiheng Zhang, Yanjiao Shi, Zhe Cao, Nian Liu, Fahad Shahbaz Khan*</sub></sup> | ECCV<br />2024 | [Paper](https://arxiv.org/abs/2407.13157) |
 | 2024/07 | **FocusDiffuser** | FocusDiffuser: Perceiving Local Disparities for Camouflaged Object Detection<br/><sup><sub>*Jianwei Zhao, Xin Li, Fan Yang, Qiang Zhai, Ao Luo, Zicheng Jiao, Hong Cheng*</sub></sup> | arXiv<br />2024 | [Paper](https://arxiv.org/abs/2407.13133) |
@@ -228,8 +232,6 @@ If you find our work useful in your research, please consider citing:
 | 2023/05 | **XMSNet**  | Object Segmentation by Mining Cross-Modal Semantics <br> <sup><sub>*Zongwei Wu, Jingjing Wang, Zhuyun Zhou, Zhaochong An, Qiuping Jiang, Cédric Demonceaux, Guolei Sun, Radu Timofte*</sub></sup> | ACM MM<br />2023 | [Paper](https://arxiv.org/abs/2305.10469)/[Code](https://github.com/Zongwei97/XMSNet) |
 | 2022/12 | **PopNet**  | Source-free depth for object pop-out <br><sup><sub>*Zongwei Wu, Danda Pani Paudel, Deng-Ping Fan, Jingjing Wang, Shuo Wang, Cédric Demonceaux, Radu Timofte, Luc Van Gool*</sub></sup> | ICCV<br />2023   | [Paper](https://ieeexplore.ieee.org/document/10377562)/[Code](https://github.com/Zongwei97/PopNet) |
 | 2021/06 | **DCE**     | Exploring Depth Contribution for Camouflaged Object Detection <br> <sup><sub>*Mochu Xiang, Jing Zhang, Yunqiu Lv, et al.*</sub></sup> | arXiv<br />2021  | [Paper](https://arxiv.org/abs/2106.13217v3)                  |
-
-
 
 ##### <span id = "112-Novel-task-setting">1.1.2 Novel-task setting</span>
 
