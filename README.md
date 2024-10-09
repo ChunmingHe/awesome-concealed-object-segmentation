@@ -40,8 +40,6 @@
 
 **A Survey of Camouflaged Object Detection and Beyond**  <br/>Fengyang Xiao, Sujie Hu, Yuqi Shen, Chengyu Fang, Jinfa Huang, Chunming He, Longxiang Tang, Ziyun Yang, Xiu Li<br/>*arxiv*, 2024. [[Paper](https://arxiv.org/abs/2408.14562)] [[Code](https://github.com/ChunmingHe/awesome-concealed-object-segmentation)]<br/>Aug. 2024
 
-**Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation** **`GenSAM`**  <br/>Jian Hu, Jiayi Lin, Junchi Yan, Shaogang Gong<br/>AAAI, 2024. [[Paper](https://arxiv.org/abs/2312.07374)] [[Code](https://lwpyh.github.io/GenSAM/)]<br/>Dec. 2023
-
 ## <span id = "Citation">Citation</span>
 
 If you find our work useful in your research, please consider citing:
