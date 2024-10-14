@@ -385,7 +385,7 @@ If you find our work useful in your research, please consider citing:
 
 ### <span id = "1-camouflaged-object-detectioncod-1">1. Camouflaged Object Detection(COD)</span>
 
-|                             Name                             | Year | Pub.  |                            Links                             | level | Statistics <br />`Total` | `Train` | `Test` |             Objects             |              Labels              |
+|                             Name                             | Year | Pub.  |                            Links                             | level | Statistics <br />`Total` \| `Train` \| `Test` | Objects | Labels |
 | :----------------------------------------------------------: | :--: | :---: | :----------------------------------------------------------: | :---: | :-----------------------------------------: | :-----------------------------: | :------------------------------: |
 | [OVCamo](https://github.com/lartpang/OVCamo?tab=readme-ov-file) | 2023 | arXiv |          [Paper](https://arxiv.org/abs/2311.11241)           | Image |            11483 \| 7713 \| 3770            |         animals&humans          |     `Cls.(75)` `Obj.` `Uns.`     |
 |      [R2C7K](https://github.com/zhangxuying1004/RefCOD)      | 2023 | arXiv |          [Paper](https://arxiv.org/abs/2306.07532)           | Image |               6615 \| - \| -                |   animals&humans<br />`N.Cam`   |     `Cls.(64)` `Obj.` `Ref.`     |
