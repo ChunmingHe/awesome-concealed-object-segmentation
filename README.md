@@ -5,7 +5,7 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2024/10/11 ]</b></p>
+<p align=center><b>[ Last updated at 2024/10/14 ]</b></p>
 
 ## Contents
 
@@ -385,25 +385,24 @@ If you find our work useful in your research, please consider citing:
 
 ### <span id = "1-camouflaged-object-detectioncod-1">1. Camouflaged Object Detection(COD)</span>
 
-|                             Name                             | Year |      Pub.      |                            Links                             | level |
-| :----------------------------------------------------------: | :--: | :------------: | :----------------------------------------------------------: | :---: |
-|      [R2C7K](https://github.com/zhangxuying1004/RefCOD)      | 2023 |     arXiv      |          [Paper](https://arxiv.org/abs/2306.07532)           | Image |
-|                            OVCamo                            | 2023 |     arXiv      |          [Paper](https://arxiv.org/abs/2311.11241)           | Image |
-|     [CoCOD8K](https://github.com/zc199823/BBNet--CoCOD)      | 2023 |     TNNLS      |          [Paper](https://arxiv.org/abs/2310.04253)           | Image |
-| [MHCD2022](https://github.com/liumaozhen-lmz/Military-Camouflage-MHCD2022) | 2023 | Neurocomputing | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223005891) | Image |
-|         [CDS2K](https://github.com/dengpingfan/csu)          | 2023 |       VI       | [Paper](https://link.springer.com/10.1007/s44267-023-00019-6) | Image |
-| [CAM-LDR](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment) | 2023 |     TCSVT      |          [Paper](https://arxiv.org/abs/2205.11333)           | Image |
-| [S-COD](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations) | 2023 |      AAAI      |          [Paper](https://arxiv.org/abs/2207.14083)           | Image |
-|    [COD10K](https://dengpingfan.github.io/pages/COD.html)    | 2022 |     TPAMI      |          [Paper](https://arxiv.org/abs/2102.10274)           | Image |
-| [CAMO++](https://sites.google.com/view/ltnghia/research/camo_plus_plus) | 2022 |      TIP       |          [Paper](https://arxiv.org/abs/2103.17123)           | Image |
-| [MoCA-Mask](https://xueliancheng.github.io/SLT-Net-project/) | 2022 |      CVPR      |          [Paper](https://arxiv.org/abs/2203.07363)           | Video |
-| [CAM-FR](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment?tab=readme-ov-file) | 2021 |      CVPR      | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Simultaneously_Localize_Segment_and_Rank_the_Camouflaged_Objects_CVPR_2021_paper.pdf) | Image |
-| [NC4K](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment) | 2021 |      CVPR      | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Simultaneously_Localize_Segment_and_Rank_the_Camouflaged_Objects_CVPR_2021_paper.pdf) | Image |
-|     [MoCA](https://www.robots.ox.ac.uk/~vgg/data/MoCA/)      | 2020 |      ACCV      | [Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Lamdouar_Betrayed_by_Motion_Camouflaged_Object_Discovery_via_Motion_Segmentation_ACCV_2020_paper.pdf) | Video |
-| [CAMO-COCO](https://sites.google.com/view/ltnghia/research/camo) | 2019 |      CVIU      | [Paper](http://www.dgcv.nii.ac.jp/Publications/Papers/2019/cviu2019.pdf) | Image |
-| [CPD1K](https://github.com/xfflyer/Camouflaged-people-detection) | 2018 |      SPL       |    [Paper](https://ieeexplore.ieee.org/document/8336933)     | Image |
-| [CHAMELEON](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | 2017 |       -        | [Webpage](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | Image |
-|    [CAD](http://vis-www.cs.umass.edu/motionSegmentation/)    | 2016 |      ECCV      | [Paper](http://vis-www.cs.umass.edu/motionSegmentation/ECCV16paper/1698.pdf) | Video |
+|                             Name                             | Year | Pub.  |                            Links                             | level | Statistics <br />`Total` | `Train` | `Test` |             Objects             |              Labels              |
+| :----------------------------------------------------------: | :--: | :---: | :----------------------------------------------------------: | :---: | :-----------------------------------------: | :-----------------------------: | :------------------------------: |
+| [OVCamo](https://github.com/lartpang/OVCamo?tab=readme-ov-file) | 2023 | arXiv |          [Paper](https://arxiv.org/abs/2311.11241)           | Image |            11483 \| 7713 \| 3770            |         animals&humans          |     `Cls.(75)` `Obj.` `Uns.`     |
+|      [R2C7K](https://github.com/zhangxuying1004/RefCOD)      | 2023 | arXiv |          [Paper](https://arxiv.org/abs/2306.07532)           | Image |               6615 \| - \| -                |   animals&humans<br />`N.Cam`   |     `Cls.(64)` `Obj.` `Ref.`     |
+|     [CoCOD8K](https://github.com/zc199823/BBNet--CoCOD)      | 2023 | TNNLS |          [Paper](https://arxiv.org/abs/2310.04253)           | Image |             8528 \| 5933 \|2595             |         animals&humans          |     `Cls.(70)` `Obj.` `Gro.`     |
+|         [CDS2K](https://github.com/dengpingfan/csu)          | 2023 |  VI   | [Paper](https://link.springer.com/10.1007/s44267-023-00019-6) | Image |              2492 \| 0 \|2492               | industrial defect<br />`N.Cam.` |    `Cls.(18)` `B.Box` `Obj.`     |
+| [CAM-LDR](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment) | 2023 | TCSVT |          [Paper](https://arxiv.org/abs/2205.11333)           | Image |             6066 \| 4040 \|2026             |         animals&humans          |   `Fix.` `Obj.` `Ins.` `Ran.`    |
+| [S-COD](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations) | 2023 | AAAI  |          [Paper](https://arxiv.org/abs/2207.14083)           | Image |              4040 \| 4040 \| 0              |         animals&humans          |              `Scr.`              |
+|    [COD10K](https://dengpingfan.github.io/pages/COD.html)    | 2022 | TPAMI |          [Paper](https://arxiv.org/abs/2102.10274)           | Image |            10000 \| 6000 \| 4000            |   animals&humans<br />`N.Cam`   | `Cls.(78)` `B.Box` `Obj.` `Ins.` |
+| [CAMO++](https://sites.google.com/view/ltnghia/research/camo_plus_plus) | 2022 |  TIP  |          [Paper](https://arxiv.org/abs/2103.17123)           | Image |            5500 \| 3500 \| 2000             |   animals&humans<br />`N.Cam`   | `Cls.(93)` `B.Box` `Obj.` `Ins.` |
+| [MoCA-Mask](https://xueliancheng.github.io/SLT-Net-project/) | 2022 | CVPR  |          [Paper](https://arxiv.org/abs/2203.07363)           | Video |           22939 \| 19313 \| 3626            |             animals             |    `Cls.(44)` `B.Box` `Obj.`     |
+| [CAM-FR](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment?tab=readme-ov-file) | 2021 | CVPR  | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Simultaneously_Localize_Segment_and_Rank_the_Camouflaged_Objects_CVPR_2021_paper.pdf) | Image |             2280 \| 2000 \| 280             |         animals&humans          |   `Fix.` `Obj.` `Ins.` `Ran.`    |
+| [NC4K](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment) | 2021 | CVPR  | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Simultaneously_Localize_Segment_and_Rank_the_Camouflaged_Objects_CVPR_2021_paper.pdf) | Image |              4121 \| 0 \| 4121              |             animals             |          `Obj.` `Ins.`           |
+|     [MoCA](https://www.robots.ox.ac.uk/~vgg/data/MoCA/)      | 2020 | ACCV  | [Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Lamdouar_Betrayed_by_Motion_Camouflaged_Object_Discovery_via_Motion_Segmentation_ACCV_2020_paper.pdf) | Video |             37250 \| 0 \| 37250             |             animals             |        `Cls.(67)` `B.Box`        |
+| [CAMO-COCO](https://sites.google.com/view/ltnghia/research/camo) | 2019 | CVIU  | [Paper](http://www.dgcv.nii.ac.jp/Publications/Papers/2019/cviu2019.pdf) | Image |             2500 \| 2000 \| 500             |  animals&humans<br />`N.Cam.`   |              `Obj.`              |
+| [CPD1K](https://github.com/xfflyer/Camouflaged-people-detection) | 2018 |  SPL  |    [Paper](https://ieeexplore.ieee.org/document/8336933)     | Image |              1000 \| 0 \| 1000              |             people              |              `Obj.`              |
+| [CHAMELEON](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | 2017 |   -   | [Webpage](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | Image |                76 \| 0 \| 76                |             animals             |              `Obj.`              |
+|  [CAD2016](http://vis-www.cs.umass.edu/motionSegmentation/)  | 2016 | ECCV  | [Paper](http://vis-www.cs.umass.edu/motionSegmentation/ECCV16paper/1698.pdf) | Video |               836 \| 0 \| 836               |             animals             |         `Cls.(6)` `Obj.`         |
 
 ### <span id = "2-transparent-object-segmentationtos-1">2. Transparent Object Segmentation(TOS)</span>
 
