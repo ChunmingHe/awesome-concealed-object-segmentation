@@ -393,16 +393,16 @@ The basic information of both image-level and video-level COD datasets.
   * object categories of datasets.
   * **N. Cam. **: whether collecting non-camouflaged samples.
 * **Labels**
-  * **Cls.**: whether providing classification labels for COCls. If so, the number of categories are provided. 
-  * **Fix.**: whether providing fixation annotation for COL.
+  * **Cls.**: whether providing classification labels for Camouflaged Objects Classification(COCls). If so, the number of categories are provided. 
+  * **Fix.**: whether providing fixation annotation for Camouflaged Objects Localization(COL).
   * **B. Box**: whether providing bounding box labels.
   * **Obj.**: whether providing object-level segmentation masks. 
-  * **Ins.**: whether providing instance-level segmentation masks for COL. 
-  * **Ran.**: whether providing ranking labels for CIR.
+  * **Ins.**: whether providing instance-level segmentation masks for Camouflaged Instance Segmentation (CIS). 
+  * **Ran.**: whether providing ranking labels for Camouflaged Instance Rank (CIR).
   * **Scr.**: whether providing weakly-supervised labels in scribbled form. 
-  * **Gro.**: whether providing corresponding category annotation within group images for CoCOD. 
-  * **Ref.**: whether providing referring images for RefCOD.
-  * **Uns.**: whether providing unseen classes for OVCOS. 
+  * **Gro.**: whether providing corresponding category annotation within group images for Collaborative Camouflaged Object Detection (CoCOD). 
+  * **Ref.**: whether providing referring images for Referring Camouflaged Object Detection (RefCOD).
+  * **Uns.**: whether providing unseen classes for Open-Vocabulary Camouflaged Object Segmentation (OVCOS). 
 
 |                             Name                             | Year | Pub.  |                            Links                             | Level | Statistics <br />`Total` \| `Train` \| `Test` | Objects | Labels |
 | :----------------------------------------------------------: | :--: | :---: | :----------------------------------------------------------: | :---: | :-----------------------------------------: | :-----------------------------: | :------------------------------: |
