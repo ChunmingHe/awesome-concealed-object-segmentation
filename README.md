@@ -385,7 +385,26 @@ If you find our work useful in your research, please consider citing:
 
 ### <span id = "1-camouflaged-object-detectioncod-1">1. Camouflaged Object Detection(COD)</span>
 
-|                             Name                             | Year | Pub.  |                            Links                             | level | Statistics <br />`Total` \| `Train` \| `Test` | Objects | Labels |
+The basic information of both image-level and video-level COD datasets. 
+
+* **Level**: data type of dataset, i.e., Image(I) and Video(V). 
+* **Train/Test**: number of samples for training/testing, e.g., images for image dataset or frames for video dataset. 
+* **Objects**
+  * object categories of datasets.
+  * **N. Cam. **: whether collecting non-camouflaged samples.
+* **Labels**
+  * **Cls.**: whether providing classification labels for COCls. If so, the number of categories are provided. 
+  * **Fix.**: whether providing fixation annotation for COL.
+  * **B. Box**: whether providing bounding box labels.
+  * **Obj.**: whether providing object-level segmentation masks. 
+  * **Ins.**: whether providing instance-level segmentation masks for COL. 
+  * **Ran.**: whether providing ranking labels for CIR.
+  * **Scr.**: whether providing weakly-supervised labels in scribbled form. 
+  * **Gro.**: whether providing corresponding category annotation within group images for CoCOD. 
+  * **Ref.**: whether providing referring images for RefCOD.
+  * **Uns.**: whether providing unseen classes for OVCOS. 
+
+|                             Name                             | Year | Pub.  |                            Links                             | Level | Statistics <br />`Total` \| `Train` \| `Test` | Objects | Labels |
 | :----------------------------------------------------------: | :--: | :---: | :----------------------------------------------------------: | :---: | :-----------------------------------------: | :-----------------------------: | :------------------------------: |
 | [OVCamo](https://github.com/lartpang/OVCamo?tab=readme-ov-file) | 2023 | arXiv |          [Paper](https://arxiv.org/abs/2311.11241)           | Image |            11483 \| 7713 \| 3770            |         animals&humans          |     `Cls.(75)` `Obj.` `Uns.`     |
 |      [R2C7K](https://github.com/zhangxuying1004/RefCOD)      | 2023 | arXiv |          [Paper](https://arxiv.org/abs/2306.07532)           | Image |               6615 \| - \| -                |   animals&humans<br />`N.Cam`   |     `Cls.(64)` `Obj.` `Ref.`     |
