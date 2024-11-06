@@ -481,3 +481,7 @@ TCSVT 2021. [[Paper](https://ieeexplore.ieee.org/document/9598866)]<br/>Nov. 202
 [SINet-V2/AWESOME_COD_LIST.md](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md)
 
 [visionxiang/awesome-camouflaged-object-detection](https://github.com/visionxiang/awesome-camouflaged-object-detection)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ChunmingHe/awesome-concealed-object-segmentation&type=Date)](https://star-history.com/#ChunmingHe/awesome-concealed-object-segmentation&Date)
