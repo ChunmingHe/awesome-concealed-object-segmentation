@@ -5,7 +5,7 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2024/10/16 ]</b></p>
+<p align=center><b>[ Last updated at 2024/11/17 ]</b></p>
 
 ## Contents
 
@@ -19,8 +19,8 @@
         * [RGB-D COD](#RGB-D-COD)
       * [Novel-task setting](#112-Novel-task-setting)
     * [Video-level COD(VCOD)](#12-Video-level-COD)
-      * [Two-step framework](#121-Novel-task-setting)
-      * [End-to-end framework](#122-End-to-end-framework)
+      * [End-to-end framework](#121-End-to-end-framework)
+      * [Two-step framework](#122-Two-step-framework)
   * [Transparent Object Segmentation(TOS)](#2-transparent-object-segmentationtos)
   * [Surface Defect Detection(SDD)](#3-surface-defect-detectionsdd)
   * [Polyp Segmentation(PS)](#4-polyp-segmentationps)
@@ -73,7 +73,9 @@ Image-level COD methods in normal-task setting use a variety of different strate
 
 | Release |                     Method                     | <br />Title                                                  |           Pub.            |                            Links                             |
 | :-----: | :--------------------------------------------: | ------------------------------------------------------------ | :-----------------------: | :----------------------------------------------------------: |
-| 2024/09 |         **MM-CamObj**<br />`MSI` `MTL`         | MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios<br/>`MM-CamObj dataset`<sup><sub>*Jiacheng Ruan, Wenzhen Yuan, Zehao Lin, Ning Liao, Zhiyu Li, Feiyu Xiong, Ting Liu, Yuzhuo Fu*</sub></sup> |      arXiv<br />2024      |          [Paper](https://arxiv.org/abs/2409.16084)           |
+| 2024/10 |                   **PCNet**                    | PlantCamo: Plant Camouflage Detection `PlantCamo dataset`<br/><sup><sub>*Jinyu Yang, Qingwei Wang, Feng Zheng, Peng Chen, Aleš Leonardis, Deng-Ping Fan*</sub></sup> |      arXiv<br />2024      | [Paper](https://arxiv.org/abs/2410.17598)/[Code](https://github.com/yjybuaa/PlantCamo) |
+| 2024/10 |                   **MCRNet**                   | Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection<br/><sup><sub>*Dingwen Zhang, Liangbo Cheng, Yi Liu, Xinggang Wang, Junwei Han*</sub></sup> |      arXiv<br />2024      | [Paper](https://arxiv.org/abs/2410.03987)/[Code](https://github.com/Liangbo-Cheng/mamba) |
+| 2024/09 |         **MM-CamObj**<br />`MSI` `MTL`         | MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios`MM-CamObj dataset`<br/><sup><sub>*Jiacheng Ruan, Wenzhen Yuan, Zehao Lin, Ning Liao, Zhiyu Li, Feiyu Xiong, Ting Liu, Yuzhuo Fu*</sub></sup> |      arXiv<br />2024      |          [Paper](https://arxiv.org/abs/2409.16084)           |
 | 2024/09 |         **FGSA-Net**<br />`MSC` `MSI`          | Frequency-Guided Spatial Adaptation for Camouflaged Object Detection<br/><sup><sub>*Shizhou Zhang, Dexuan Kong, Yinghui Xing, Yue Lu, Lingyan Ran, Guoqiang Liang, Hexu Wang, Yanning Zhang*</sub></sup> |       TMM<br />2024       |          [Paper](https://arxiv.org/abs/2409.12421)           |
 | 2024/09 |             **GLCONet**<br />`MSC`             | GLCONet: Learning Multi-source Perception Representation for Camouflaged Object Detection<br/><sup><sub>*Yanguang Sun, Hanyu Xuan, Jian Yang, Lei Luo*</sub></sup> |      TNNLS<br />2024      | [Paper](https://arxiv.org/abs/2409.09588)/[Code](https://github.com/CSYSI/GLCONet) |
 | 2024/09 |           **FSEL**<br />`MSC` `MSI`            | Frequency-Spatial Entanglement Learning for Camouflaged Object Detection<br/><sup><sub>*Yanguang Sun, Chunyan Xu, Jian Yang, Hanyu Xuan, Lei Luo*</sub></sup> |      ECCV<br />2024       | [Paper](https://arxiv.org/abs/2409.01686)/[Code](https://github.com/CSYSI/FSEL) |
@@ -252,7 +254,19 @@ Image-level COD methods in normal-task setting use a variety of different strate
 
 #### <span id = "12-Video-level-COD">1.2 Video-level COD(VCOD)</span>
 
-##### <span id = "121-Novel-task-setting">1.2.1 Two-step framework</span>
+##### <span id = "121-End-to-end-framework">1.2.1 End-to-end framework</span>
+
+| Release |    Method    | Title                                                        |       Pub.        |                            Links                             |
+| :-----: | :----------: | ------------------------------------------------------------ | :---------------: | :----------------------------------------------------------: |
+| 2024/09 |      -       | When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation<br/> <sup><sub>*Yuli Zhou, Guolei Sun, Yawei Li, Luca Benini, Ender Konukoglu*</sub></sup> |  arXiv<br />2024  |          [Paper](https://arxiv.org/abs/2409.18653)           |
+| 2024/06 |  **SAM-PM**  | SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention<br/><sup><sub>*Muhammad Nawfal Meeran, Gokul Adethya T, Bhanu Pratyush Mantha*</sub></sup> | CVPR Ws<br />2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024W/PVUW/html/Meeran_SAM-PM_Enhancing_Video_Camouflaged_Object_Detection_using_Spatio-Temporal_Attention_CVPRW_2024_paper.html)/[Code](https://github.com/SpiderNitt/SAM-PM) |
+| 2024/03 |   **EMIP**   | Explicit Motion Handling and Interactive Prompting for Video Camouflaged Object Detection<br/><sup><sub>*Xin Zhang, Tao Xiao, Gepeng Ji, Xuan Wu, Keren Fu, Qijun Zhao*</sub></sup> |  arXiv<br />2024  |          [Paper](https://arxiv.org/abs/2403.01968)           |
+| 2024/02 | **TSP-SAM**  | Endow SAM with Keen Eyes: Temporal-spatial Prompt Learning for Video Camouflaged Object Detection<br/> <sup><sub>*Wenjun Hui, Zhenfeng Zhu, Shuai Zheng, Yao Zhao*</sub></sup> |  CVPR<br />2024   | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hui_Endow_SAM_with_Keen_Eyes_Temporal-spatial_Prompt_Learning_for_Video_CVPR_2024_paper.pdf)/[Code](https://github.com/WenjunHui1/TSP-SAM) |
+| 2024/02 |   **IMEX**   | Implicit-Explicit Motion Learning for Video Camouflaged Object Detection<br/> <sup><sub>*Wenjun Hui; Zhenfeng Zhu; Guanghua Gu; Meiqin Liu; Yao Zhao*</sub></sup> |   TMM<br />2024   | [Paper](https://ieeexplore.ieee.org/abstract/document/10430451) |
+| 2023/11 |  **TMNet**   | TokenMotion: Motion-Guided Vision Transformer for Video Camouflaged Object Detection Via Learnable Token Selection<br/> <sup><sub>*Zifan Yu, Erfan Bank Tavakoli, Meida Chen, Suya You, Raghuveer Rao, Sanjeev Agarwal, Fengbo Ren*</sub></sup> | ICASSP<br />2024  |    [Paper](https://ieeexplore.ieee.org/document/10447329)    |
+| 2023/10 | **ZoomNeXt** | ZoomNeXt: A Unified Collaborative Pyramid Network for Camouflaged Object Detection<br> <sup><sub>*Youwei Pang, Xiaoqi Zhao, Tian-Zhu Xiang, Lihe Zhang, Huchuan Lu*</sub></sup> |  TPAMI<br />2024  | [Paper](https://arxiv.org/abs/2310.20208)/[Code](https://github.com/lartpang/ZoomNeXt) |
+
+##### <span id = "122-Two-step-framework">1.2.2 Two-step framework</span>
 
 | Release |   Method    | Title                                                        |       Pub.        |                            Links                             |
 | :-----: | :---------: | ------------------------------------------------------------ | :---------------: | :----------------------------------------------------------: |
@@ -266,17 +280,6 @@ Image-level COD methods in normal-task setting use a variety of different strate
 | 2021/04 |   **MG**    | Self-Supervised Video Object Segmentation by Motion Grouping <br> <sup><sub>*Charig Yang, Hala Lamdouar, Erika Lu, et al.*</sub></sup> |  ICCV<br />2021   | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Self-Supervised_Video_Object_Segmentation_by_Motion_Grouping_ICCV_2021_paper.pdf)/[Code](https://github.com/charigyang/motiongrouping)/[Project](https://charigyang.github.io/motiongroup/) |
 | 2020/11 |   **VRS**   | Betrayed By Motion: Camouflaged Object Discovery via Motion Segmentation  `MoCA dataset`<br> <sup><sub>*Hala Lamdouar, Charig Yang, Weidi Xie,et al.*</sub></sup> |  ACCV<br />2020   | [Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Lamdouar_Betrayed_by_Motion_Camouflaged_Object_Discovery_via_Motion_Segmentation_ACCV_2020_paper.pdf)/[Code](https://github.com/hlamdouar/MoCA/) |
 | 2018/12 |   **FMC**   | Object discovery in videos as foreground motion clustering <br> <sup><sub>*Christopher Xie, Yu Xiang, Zaid Harchaoui, et al.*</sub></sup> |  CVPR<br />2019   | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Object_Discovery_in_Videos_as_Foreground_Motion_Clustering_CVPR_2019_paper.pdf) |
-
-##### <span id = "122-End-to-end-framework">1.2.2 End-to-end framework</span>
-
-|  Release   |    Method     | Title                                                        |       Pub.        |                             Links                             |
-| :-----: | :---------: | ------------------------------------------------------------ | :---------------: | :----------------------------------------------------------: |
-| 2024/06 |  **SAM-PM**  | SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention<br/><sup><sub>*Muhammad Nawfal Meeran, Gokul Adethya T, Bhanu Pratyush Mantha*</sub></sup> | CVPR Ws<br />2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024W/PVUW/html/Meeran_SAM-PM_Enhancing_Video_Camouflaged_Object_Detection_using_Spatio-Temporal_Attention_CVPRW_2024_paper.html)/[Code](https://github.com/SpiderNitt/SAM-PM) |
-| 2024/03 |   **EMIP**   | Explicit Motion Handling and Interactive Prompting for Video Camouflaged Object Detection<br/><sup><sub>*Xin Zhang, Tao Xiao, Gepeng Ji, Xuan Wu, Keren Fu, Qijun Zhao*</sub></sup> |  arXiv<br />2024  |          [Paper](https://arxiv.org/abs/2403.01968)           |
-| 2024/02 | **TSP-SAM**  | Endow SAM with Keen Eyes: Temporal-spatial Prompt Learning for Video Camouflaged Object Detection<br/> <sup><sub>*Wenjun Hui, Zhenfeng Zhu, Shuai Zheng, Yao Zhao*</sub></sup> |  CVPR<br />2024   | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hui_Endow_SAM_with_Keen_Eyes_Temporal-spatial_Prompt_Learning_for_Video_CVPR_2024_paper.pdf)/[Code](https://github.com/WenjunHui1/TSP-SAM) |
-| 2024/02 |   **IMEX**   | Implicit-Explicit Motion Learning for Video Camouflaged Object Detection<br/> <sup><sub>*Wenjun Hui; Zhenfeng Zhu; Guanghua Gu; Meiqin Liu; Yao Zhao*</sub></sup> |   TMM<br />2024   | [Paper](https://ieeexplore.ieee.org/abstract/document/10430451) |
-| 2023/11 |  **TMNet**   | TokenMotion: Motion-Guided Vision Transformer for Video Camouflaged Object Detection Via Learnable Token Selection<br/> <sup><sub>*Zifan Yu, Erfan Bank Tavakoli, Meida Chen, Suya You, Raghuveer Rao, Sanjeev Agarwal, Fengbo Ren*</sub></sup> | ICASSP<br />2024  |    [Paper](https://ieeexplore.ieee.org/document/10447329)    |
-| 2023/10 | **ZoomNeXt** | ZoomNeXt: A Unified Collaborative Pyramid Network for Camouflaged Object Detection<br> <sup><sub>*Youwei Pang, Xiaoqi Zhao, Tian-Zhu Xiang, Lihe Zhang, Huchuan Lu*</sub></sup> |  TPAMI<br />2024  | [Paper](https://arxiv.org/abs/2310.20208)/[Code](https://github.com/lartpang/ZoomNeXt) |
 
 ### <span id = "2-transparent-object-segmentationtos">2. Transparent Object Segmentation(TOS)</span>
 
