@@ -9,8 +9,7 @@
 
 ## Contents
 
-* [Latest Works Recommended](#latest-works-recommended)
-* [Citation](#Citation)
+* [Supporting Survey](#supporting-survey)
 * [Papers](#papers)
   * [Camouflaged Object Detection(COD)](#1-camouflaged-object-detectioncod)
     * [Image-level COD](#11-Image-level-COD)
@@ -34,13 +33,9 @@
 * [Related Surveys Recommended](#related-surveys-recommended)
 * [Reference](#reference)
 
-## <span id = "latest-works-recommended">Latest Works Recommended</span>
+## <span id = "supporting-survey">Supporting Survey</span>
 
-**Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation**  **`ProMaC`**<br/>Jian Hu, Jiayi Lin, Junchi Yan, Shaogang Gong<br/>*NeurIPS*, 2024. [[Paper](https://arxiv.org/abs/2408.15205)] [[Code](https://lwpyh.github.io/ProMaC/)]<br/>Sep. 2024
-
-**A Survey of Camouflaged Object Detection and Beyond**  <br/>Fengyang Xiao, Sujie Hu, Yuqi Shen, Chengyu Fang, Jinfa Huang, Chunming He, Longxiang Tang, Ziyun Yang, Xiu Li<br/>*arxiv*, 2024. [[Paper](https://arxiv.org/abs/2408.14562)] [[Code](https://github.com/ChunmingHe/awesome-concealed-object-segmentation)]<br/>Aug. 2024
-
-## <span id = "Citation">Citation</span>
+**A Survey of Camouflaged Object Detection and Beyond**  <br/>Fengyang Xiao, Sujie Hu, Yuqi Shen, Chengyu Fang, Jinfa Huang, Chunming He, Longxiang Tang, Ziyun Yang, Xiu Li<br/>CAAI AIR, 2024. [[Paper](https://arxiv.org/abs/2408.14562)] [[Code](https://github.com/ChunmingHe/awesome-concealed-object-segmentation)]<br/>Nov. 2024
 
 If you find our work useful in your research, please consider citing:
 
@@ -48,10 +43,13 @@ If you find our work useful in your research, please consider citing:
 @article{2024CODsurvey,
   title={A Survey of Camouflaged Object Detection and Beyond},
   author={Xiao, Fengyang and Hu, Sujie and Shen, Yuqi and Fang, Chengyu and Huang, Jinfa and He, Chunming and Tang, Longxiang and Yang, Ziyun and Li, Xiu},
-  journal={arXiv preprint arXiv:2408.14562},
+  journal={CAAI AIR},
   year={2024}
 }
 ```
+## <span id = "latest-works-recommended">Latest Works Recommended</span>
+
+**Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation**  **`ProMaC`**<br/>Jian Hu, Jiayi Lin, Junchi Yan, Shaogang Gong<br/>*NeurIPS*, 2024. [[Paper](https://arxiv.org/abs/2408.15205)] [[Code](https://lwpyh.github.io/ProMaC/)]<br/>Sep. 2024
 
 ## <span id = "papers">Papers</span>
 
