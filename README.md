@@ -5,7 +5,7 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2024/11/17 ]</b></p>
+<p align=center><b>[ Last updated at 2025/01/05 ]</b></p>
 
 ## Contents
 
@@ -71,6 +71,8 @@ Image-level COD methods in normal-task setting use a variety of different strate
 
 | Release |                     Method                     | <br />Title                                                  |           Pub.            |                            Links                             |
 | :-----: | :--------------------------------------------: | ------------------------------------------------------------ | :-----------------------: | :----------------------------------------------------------: |
+| 2024/12 |                   **USCOD**                    | Unconstrained Salient and Camouflaged Object Detection       |      arXiv<br />2024      |          [Paper](https://arxiv.org/abs/2412.10943)           |
+| 2024/11 |                **COMPrompter**                 | COMPrompter: reconceptualized segment anything model with multiprompt network for camouflaged object detection |      SCIS<br />2024       | [Paper](https://arxiv.org/abs/2411.18858)/[Code](https://github.com/guobaoxiao/COMPrompter) |
 | 2024/10 |                   **PCNet**                    | PlantCamo: Plant Camouflage Detection `PlantCamo dataset`<br/><sup><sub>*Jinyu Yang, Qingwei Wang, Feng Zheng, Peng Chen, Aleš Leonardis, Deng-Ping Fan*</sub></sup> |      arXiv<br />2024      | [Paper](https://arxiv.org/abs/2410.17598)/[Code](https://github.com/yjybuaa/PlantCamo) |
 | 2024/10 |                   **MCRNet**                   | Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection<br/><sup><sub>*Dingwen Zhang, Liangbo Cheng, Yi Liu, Xinggang Wang, Junwei Han*</sub></sup> |      arXiv<br />2024      | [Paper](https://arxiv.org/abs/2410.03987)/[Code](https://github.com/Liangbo-Cheng/mamba) |
 | 2024/09 |         **MM-CamObj**<br />`MSI` `MTL`         | MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios`MM-CamObj dataset`<br/><sup><sub>*Jiacheng Ruan, Wenzhen Yuan, Zehao Lin, Ning Liao, Zhiyu Li, Feiyu Xiong, Ting Liu, Yuzhuo Fu*</sub></sup> |      arXiv<br />2024      |          [Paper](https://arxiv.org/abs/2409.16084)           |
