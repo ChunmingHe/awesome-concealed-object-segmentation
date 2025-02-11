@@ -50,6 +50,8 @@ If you find our work useful in your research, please consider citing:
 
 ## <span id = "latest-works-recommended">Latest Works Recommended</span>
 
+**RUN: Reversible Unfolding Network for Concealed Object Segmentation**  **`RUN`**<br/>Chunming He, Rihan Zhang, Fengyang Xiao, Chengyu Fang, Longxiang Tang, Yulun Zhang, Linghe Kong, Deng-Ping Fan, Kai Li, Sina Farsiu<br/>*ArXiv*. [[Paper](https://arxiv.org/pdf/2501.18783)] <br/>Jan. 2025
+
 **Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation**  **`ProMaC`**<br/>Jian Hu, Jiayi Lin, Junchi Yan, Shaogang Gong<br/>*NeurIPS*, 2024. [[Paper](https://arxiv.org/abs/2408.15205)] [[Code](https://lwpyh.github.io/ProMaC/)]<br/>Sep. 2024
 
 ## <span id = "papers">Papers</span>
