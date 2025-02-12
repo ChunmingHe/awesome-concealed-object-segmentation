@@ -50,6 +50,8 @@ If you find our work useful in your research, please consider citing:
 
 ## <span id = "latest-works-recommended">Latest Works Recommended</span>
 
+**RUN: Reversible Unfolding Network for Concealed Object Segmentation**  **`RUN`**<br/>Chunming He, Rihan Zhang, Fengyang Xiao, Chengyu Fang, Longxiang Tang, Yulun Zhang, Linghe Kong, Deng-Ping Fan, Kai Li, Sina Farsiu<br/>*ArXiv*. [[Paper](https://arxiv.org/pdf/2501.18783)] <br/>Jan. 2025
+
 **Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation**  **`ProMaC`**<br/>Jian Hu, Jiayi Lin, Junchi Yan, Shaogang Gong<br/>*NeurIPS*, 2024. [[Paper](https://arxiv.org/abs/2408.15205)] [[Code](https://lwpyh.github.io/ProMaC/)]<br/>Sep. 2024
 
 ## <span id = "papers">Papers</span>
@@ -60,7 +62,7 @@ If you find our work useful in your research, please consider citing:
 
 ##### <span id = "111-Normal-task-setting">1.1.1 Normal-task setting</span>
 
-Image-level COD methods in normal-task setting use a variety of different strategies, mainly in the following five categories. And we include tags related to core techniques for each item.
+Image-level COD methods in normal-task settings use a variety of different strategies, mainly in the following five categories. We include tags related to core techniques for each item.
 
 * Multi-scale-context (MSC)
 * Mechanism-simulation (MS)
@@ -78,8 +80,9 @@ Image-level COD methods in normal-task setting use a variety of different strate
 | 2025/01 |                   **B2Net**                    | B2Net: Camouflaged Object Detection via Boundary Aware and Boundary Fusion<br/><sup><sub>*Junmin Cai, Han Sun, Ningzhong Liu*</sub></sup> |        arXiv 2024         |          [Paper](https://arxiv.org/abs/2501.00426)           |
 | 2024/12 |                   **CGNet**                    | CGCOD: Class-Guided Camouflaged Object Detection<br/><sup><sub>*Chenxi Zhang, Qing Zhang, Jiayun Wu, Youwei Pang*</sub></sup> |      arXiv<br />2024      |          [Paper](https://arxiv.org/abs/2412.18977)           |
 | 2024/12 |                    **CDP**                     | Seamless Detection: Unifying Salient Object Detection and Camouflaged Object Detection<br/><sup><sub>*Yi Liu, Chengxin Li, Xiaohui Dong, Lei Li, Dingwen Zhang, Shoukun Xu, Jungong Han*</sub></sup> |      arXiv<br />2024      | [Paper](https://arxiv.org/abs/2412.16840)/[Code](https://github.com/liuyi1989/Seamless-Detection) |
+| 2025/01 |                   **RUN**                      | RUN: Reversible Unfolding Network for Concealed Object Segmentation<br/><sup><sub>*Chunming He, Rihan Zhang, Fengyang Xiao, Chengyu Fang, Longxiang Tang, Yulun Zhang, Linghe Kong, Deng-Ping Fan, Kai Li, Sina Farsiu*</sub></sup> |      arXiv<br />2025      |          [Paper](https://arxiv.org/pdf/2501.18783)           |
 | 2024/12 |                   **USCOD**                    | Unconstrained Salient and Camouflaged Object Detection<br/><sup><sub>*Z Zhou, Y Li, C Zhong, J Huang, J Pei, H Tang*</sub></sup> |      arXiv<br />2024      |          [Paper](https://arxiv.org/abs/2412.10943)           |
-| 2024/11 |                **COMPrompter**                 | COMPrompter: reconceptualized segment anything model with multiprompt network for camouflaged object detection<br/><sup><sub>*X Zhang, Z Yu, L Zhao, DP Fan, G Xiao*</sub></sup> |      SCIS<br />2024       | [Paper](https://arxiv.org/abs/2411.18858)/[Code](https://github.com/guobaoxiao/COMPrompter) |
+| 2024/11 |                **COMPrompter**                 | COMPrompter: Reconceptualized Segment Anything Model with Multiprompt Network for Camouflaged Object Detection<br/><sup><sub>*X Zhang, Z Yu, L Zhao, DP Fan, G Xiao*</sub></sup> |      SCIS<br />2024       | [Paper](https://arxiv.org/abs/2411.18858)/[Code](https://github.com/guobaoxiao/COMPrompter) |
 | 2024/10 |                   **PCNet**                    | PlantCamo: Plant Camouflage Detection `PlantCamo dataset`<br/><sup><sub>*Jinyu Yang, Qingwei Wang, Feng Zheng, Peng Chen, Aleš Leonardis, Deng-Ping Fan*</sub></sup> |      arXiv<br />2024      | [Paper](https://arxiv.org/abs/2410.17598)/[Code](https://github.com/yjybuaa/PlantCamo) |
 | 2024/10 |                   **MCRNet**                   | Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection<br/><sup><sub>*Dingwen Zhang, Liangbo Cheng, Yi Liu, Xinggang Wang, Junwei Han*</sub></sup> |      arXiv<br />2024      | [Paper](https://arxiv.org/abs/2410.03987)/[Code](https://github.com/Liangbo-Cheng/mamba) |
 | 2024/09 |         **MM-CamObj**<br />`MSI` `MTL`         | MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios`MM-CamObj dataset`<br/><sup><sub>*Jiacheng Ruan, Wenzhen Yuan, Zehao Lin, Ning Liao, Zhiyu Li, Feiyu Xiong, Ting Liu, Yuzhuo Fu*</sub></sup> |      arXiv<br />2024      |          [Paper](https://arxiv.org/abs/2409.16084)           |
