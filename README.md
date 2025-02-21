@@ -52,6 +52,8 @@ If you find our work useful in your research, please consider citing:
 
 **RUN: Reversible Unfolding Network for Concealed Object Segmentation**  **`RUN`**<br/>Chunming He, Rihan Zhang, Fengyang Xiao, Chengyu Fang, Longxiang Tang, Yulun Zhang, Linghe Kong, Deng-Ping Fan, Kai Li, Sina Farsiu<br/>*ArXiv*. [[Paper](https://arxiv.org/pdf/2501.18783)] <br/>Jan. 2025
 
+**Integrating Extra Modality Helps Segmentor Find Camouflaged Objects Well**  **`UniCOS`**<br/>Chengyu Fang, Chunming He, Longxiang Tang, Yuelin Zhang, Chenyang Zhu, Yuqi Shen, Chubin Chen, Guoxia Xu, Xiu Li<br/>*ArXiv*. [[Paper](https://arxiv.org/abs/2502.14471)] <br/>Jan. 2025
+
 **Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation**  **`ProMaC`**<br/>Jian Hu, Jiayi Lin, Junchi Yan, Shaogang Gong<br/>*NeurIPS*, 2024. [[Paper](https://arxiv.org/abs/2408.15205)] [[Code](https://lwpyh.github.io/ProMaC/)]<br/>Sep. 2024
 
 ## <span id = "papers">Papers</span>
@@ -238,6 +240,8 @@ Image-level COD methods in normal-task settings use a variety of different strat
 
 | Release | Method                       | <br />Title                                                  | Pub.             | Links                                                        |
 | ------- | ---------------------------- | ------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ |
+| 2025/01 | **UniCOS**<br />`MSI``MSC`          | Integrating Extra Modality Helps Segmentor Find Camouflaged Objects Well
+<br/><sup><sub>*Chengyu Fang, Chunming He, Longxiang Tang, Yuelin Zhang, Chenyang Zhu, Yuqi Shen, Chubin Chen, Guoxia Xu, Xiu Li*</sub></sup> | arXiv<br />2025 | [Paper](https://arxiv.org/abs/2502.14471)/[Code](https://github.com/cnyvfang/UniCOS) |
 | 2024/07 | **DSAM**<br />`MSI`          | Exploring Deeper! Segment Anything Model with Depth Perception for Camouflaged Object Detection<br/><sup><sub>*Zhenni Yu, Xiaoqin Zhang, Li Zhao, Yi Bin, Guobao Xiao*</sub></sup> | ACM MM<br />2024 | [Paper](https://arxiv.org/abs/2407.12339)/[Code](https://github.com/guobaoxiao/DSAM) |
 | 2024/05 | **DAF-Net**<br />`MSC` `MSI` | Depth Awakens: A Depth-perceptual Attention Fusion Network for RGB-D Camouflaged Object Detection<br/><sup><sub>*Xinran Liua, Lin Qia, Yuxuan Songa, Qi Wen*</sub></sup> | IVC<br />2024    | [Paper](https://arxiv.org/abs/2405.05614)/[Code](https://github.com/xinran-liu00/DAF-Net) |
 | 2024/04 | **RISNet** <br />`MSC` `MSI` | Depth-Aware Concealed Crop Detection in Dense Agricultural Scenes `ACOD-12K dataset` <br/> <sup><sub>*Liqiong Wang, Jinyu Yang, Yanfu Zhang, Fangyi Wang, Feng Zheng*</sub></sup> | CVPR<br />2024   | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Depth-Aware_Concealed_Crop_Detection_in_Dense_Agricultural_Scenes_CVPR_2024_paper.html)/[Code](https://github.com/Kki2Eve/RISNet) |
