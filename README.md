@@ -317,7 +317,7 @@ Image-level COD methods in normal-task settings use a variety of different strat
 | 2018/03 |   **TOM-Net**   | TOM-Net: Learning Transparent Object Matting from a Single Image `TOM-Net dataset`<br /><sup><sub>Guanying Chen, Kai Han, Kwan-Yee K. Wong</sub></sup> |  CVPR<br />2018  | [Paper](https://guanyingc.github.io/TOM-Net/files/tom-net_cvpr18.pdf)/[Code](https://github.com/guanyingc/TOM-Net) |
 | 2015/11 |  **TransCut**   | TransCut: Transparent Object Segmentation from a Light-Field Image `TransCut dataset`<br /><sup><sub>Yichao Xu, Hajime Nagahara, Atsushi Shimada, Rin-ichiro Taniguchi</sub></sup> |  ICCV<br />2015  |          [Paper](https://arxiv.org/abs/1511.06853)           |
 | 2011/09 |        -        | Transparent object detection using color image and laser reflectance image for mobile manipulator<br /><sup><sub>Zhong Lei; Kazunori Ohno; Masanobu Tsubota; Eijiro Takeuchi; Satoshi Tadokoro</sub></sup> |  ICRB<br />2011  |    [Paper](https://ieeexplore.ieee.org/document/6181253)     |
-
+ | 2025/03 | **LangGas** | LangGas: Introducing Language in Selective Zero-Shot Background Subtraction for Semi-Transparent Gas Leak Detection with a New Dataset <br/> <sup><sub>Wenqi Guo, Yiyang Du, Shan Du |  arXiv <br/> 2025 | [Paper](https://arxiv.org/abs/2503.02910)
 ### <span id = "p_SDD">3. Surface Defect Detection(SDD)</span>
 
 | Release |    Method    | Title                                                        |           Pub.           |                         Links                          |
