@@ -76,17 +76,11 @@ Image-level COD methods in normal-task settings use a variety of different strat
 
 | Release |                     Method                     | <br />Title                                                  |           Pub.            |                            Links                             |
 | :-----: | :--------------------------------------------: | ------------------------------------------------------------ | :-----------------------: | :----------------------------------------------------------: |
-| 2025/06 |                  **EASE**                  | Shift the Lens: Environment-Aware Unsupervised Camouflaged Object Detection<br/><sup><sub>*Ji Du, Fangwei Hao, Mingyang Yu, Desheng Kong, Jiesheng Wu, Bin Wang, Jing Xu, Ping Li*</sub></sup> |      CVPR<br />2025      |          [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Du_Shift_the_Lens_Environment-Aware_Unsupervised_Camouflaged_Object_Detection_CVPR_2025_paper.pdf)/[Code](https: //github.com/xiaohainku/EASE)           |
-
-
-
-
-
-
-
-
-
-
+| 2025/06 |                  **EASE**                  | Shift the Lens: Environment-Aware Unsupervised Camouflaged Object Detection<br/><sup><sub>*Ji Du, Fangwei Hao, Mingyang Yu, Desheng Kong, Jiesheng Wu, Bin Wang, Jing Xu, Ping Li*</sub></sup> |      CVPR<br />2025      |          [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Du_Shift_the_Lens_Environment-Aware_Unsupervised_Camouflaged_Object_Detection_CVPR_2025_paper.pdf)/[Code](https://github.com/xiaohainku/EASE)           |
+| 2025/06 |                  **BCLNet**                  | Boundary-and-object collaborative learning network for camouflaged object detection<br/><sup><sub>*Chenyu Zhuang, Qing Zhang, Chenxi Zhang, Xinxin Yuan*</sub></sup> |      IVC<br />2025      |          [Paper](https://www.sciencedirect.com/science/article/pii/S0262885625001842)/[Code](https://github.com/ZhangQing0329/BCLNet)           |
+| 2025/06 |                  **TBD**                  | Spatial Coherence Loss: All Objects Matter in Salient and Camouflaged Object<br/><sup><sub>*Ziyun Yang, Kevin Choy, Sina Farsiu*</sub></sup> |      SSRN<br />2025      |          [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5280527)/[Code](https://github.com/TBD)           |
+| 2025/05 |                  **SINet**                  | Enhancing Camouflaged Object Detection with SINet: A New Benchmark in Visual Recognition<br/><sup><sub>*Manju Nagarajappa, Nagarjun A, Shruthi N, Malapriya S, Abdulbasit A. Darem, Asma A. Al-Hashmi*</sub></sup> |      IJCIS<br />2025      |          [Paper](https://cspub-ijcisim.org/index.php/ijcisim/article/view/861/648)           |
+| 2025/03 |                  **TANet**                  | TANet: Tri-Aspects Network for Camouflaged Object Detection<br/><sup><sub>*Jahoon Jeong; Joonkyo Shim; Hyunsoo Yoon*</sub></sup> |      TCSVT<br />2025      |          [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11016067)           |
 | 2025/05 |                  **DRRNet**                  | Macro-Micro Feature Fusion and Dual Reverse Refinement for Camouflaged Object Detection<br/><sup><sub>*Jianlin Sun, Xiaolin Fang, Juwei Guan, Dongdong Gui, Teqi Wang, Tongxin Zhu*</sub></sup> |      arXiv<br />2025      |          [Paper](https://arxiv.org/abs/2505.09168)/[Code](https://github.com/jerrySunning/DRRNet)           |
 | 2025/04 |                  **CKID-Net**                  | Collaborative Knowledge Injection for Concealed Object Detection in MMW Human Inspection<br/><sup><sub>*Xinlin Wang, Nuo Tong, Shuiping Gou, Shasha Mao*</sub></sup> |      TII<br />2025      |          [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10979382&tag=1)           |
 | 2025/04 |                  **CamoFA**                  | A Learnable Fourier-Based Augmentation for Camouflage Segmentation<br/><sup><sub>*Minh-Quan Le, Minh-Triet Tran, Trung-Nghia Le, Tam V. Nguyen, Thanh-Toan Do*</sub></sup> |      WACV<br />2025      |          [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10943294)           |
